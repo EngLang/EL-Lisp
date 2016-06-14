@@ -1,5 +1,5 @@
 # EngLang
-![EngLang](http://s32.postimg.org/87erw9qyd/Eng_Lang.png "EngLang")
+![EngLang](http://s32.postimg.org/87erw9qyd/Eng_Lang.png "EngLang")![EngLang](http://s32.postimg.org/procor9rp/Logo.png "EngLang")
 ##Introduction
 EngLang is a syntax-lenient programming language that essentially takes human text and parses it into executable code. For example, the sentence:
 ```EngLang
@@ -25,10 +25,10 @@ Impressed yet? Let's get started.
 There are some key terms used within the documentation of EngLang that is considered unconventional. Therefore, below is a list of terminology that may be helpful:
 
 
-Sentence - 
-Verb - 
-Subject -
-Parameter - 
-Chapter -
-Paragraph - 
-Alias - 
+* Sentence - 
+* Verb - 
+* Subject -
+* Parameter - 
+* Chapter -
+* Paragraph - 
+* Alias - 
