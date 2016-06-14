@@ -1,5 +1,5 @@
 # EngLang
-
+![EngLang](http://s32.postimg.org/87erw9qyd/Eng_Lang.png "EngLang")
 ##Introduction
 EngLang is a syntax-lenient programming language that essentially takes human text and parses it into executable code. For example, the sentence:
 ```EngLang
@@ -11,7 +11,7 @@ However, it is possible to create even more complex sentences that do some spect
 ```EngLang
 Let's count to five, saying each number aloud as we go, and send the result to http://mywebsite.com/api/count as 'mycount'
 ```
-This statement is equivalent to creating a variable, running through a loop 5 times that increments the number and prints it to the console, and then makes a `POST` call to `http://mywebsite.com/api/count` JSON content `{mycount: 5}`.
+This statement is equivalent to creating a variable, running through a loop 5 times that increments the number and prints it to the console, and then makes a `POST` call to `http://mywebsite.com/api/count` with JSON content `{mycount: 5}`.
 
 Fancy right? Well using our goal of super-abstraction, you can even write code that is very minimal but outputs complex results, such as the following:
 ```EngLang
@@ -25,10 +25,10 @@ Impressed yet? Let's get started.
 There are some key terms used within the documentation of EngLang that is considered unconventional. Therefore, below is a list of terminology that may be helpful:
 
 
-`Sentence` - 
-`Verb` - 
-`Subject` -
-`Parameter` - 
-`Chapter` -
-`Paragraph` - 
-`Alias` - 
+Sentence - 
+Verb - 
+Subject -
+Parameter - 
+Chapter -
+Paragraph - 
+Alias - 
