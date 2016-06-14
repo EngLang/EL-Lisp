@@ -1,5 +1,5 @@
 # EngLang
-![EngLang](http://s32.postimg.org/87erw9qyd/Eng_Lang.png "EngLang")![EngLang](http://s32.postimg.org/procor9rp/Logo.png "EngLang")
+![EngLang](http://s31.postimg.org/d7mshul0r/master.png "EngLang")
 ##Introduction
 EngLang is a syntax-lenient programming language that essentially takes human text and parses it into executable code. For example, the sentence:
 ```EngLang
