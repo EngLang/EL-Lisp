@@ -21,6 +21,16 @@ Using resources such as the Wolfram|Alpha API and Wikipedia, this method with ga
 
 Impressed yet? Let's get started.
 
+## Open Source Contributions
+
+Want to contribute to the project? Feel free to check out our wiki, issues, and list of tasks on Trello. Fix a bug or implement a feature and submit a merge request!
+
+Trello: [https://trello.com/b/YNJBR43k/englang](https://trello.com/b/YNJBR43k/englang)
+
+Wiki: [https://github.com/vontell/EngLang/wiki](https://github.com/vontell/EngLang/wiki)
+
+Issues: [https://github.com/vontell/EngLang/issues](https://github.com/vontell/EngLang/issues)
+
 ##Key Terminology
 There are some key terms used within the documentation of EngLang that is considered unconventional. Therefore, below is a list of terminology that may be helpful:
 
