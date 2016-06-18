@@ -1,0 +1,3159 @@
+<classNumber>#<i>#Class 1 #</i>#</classNumber>
+<classTitle>#<i>#WORDS EXPRESSING ABSTRACT RELATIONS #</i>#</classTitle>
+
+<sectionNumber>#Section 1 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#EXISTENCE #</b>#</size>#</sectionTitle>
+
+<headGroup 1 2  >
+<headword>#<b>#[1] #1# Existence #</b>#</headword>
+<headword>#<b>#[2] #2# Inexistence #</b>#</headword>
+</headGroup>
+
+<headGroup 3 4  >
+<headword>#<b>#[3] #3# Substantiality #</b>#</headword>
+<headword>#<b>#[4] #4# Unsubstantiality #</b>#</headword>
+</headGroup>
+
+<headGroup 5 6  >
+<headword>#<b>#[5] #5# Intrinsicality #</b>#</headword>
+<headword>#<b>#[6] #6# Extrinsicality #</b>#</headword>
+</headGroup>
+
+<headGroup 7 8  >
+<headword>#<b>#[7] #7# State #</b>#</headword>
+<headword>#<b>#[8] #8# Circumstance #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 2 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#RELATION #</b>#</size>#</sectionTitle>
+
+<headGroup 9 10  >
+<headword>#<b>#[9] #9# Relation #</b>#</headword>
+<headword>#<b>#[10] #10# Irrelation #</b>#</headword>
+</headGroup>
+
+<headGroup 11  >
+<headword>#<b>#[11] #11# Consanguinity #</b>#</headword>
+</headGroup>
+
+<headGroup 12  >
+<headword>#<b>#[12] #12# Correlation #</b>#</headword>
+</headGroup>
+
+<headGroup 13 14 15  >
+<headword>#<b>#[13] #13# Identity #</b>#</headword>
+<headword>#<b>#[14] #14# Contrariety #</b>#</headword>
+<headword>#<b>#[15] #15# Difference #</b>#</headword>
+</headGroup>
+
+<headGroup 16 17  >
+<headword>#<b>#[16] #16# Uniformity #</b>#</headword>
+<headword>#<b>#[16a] #17# Nonuniformity #</b>#</headword>
+</headGroup>
+
+<headGroup 18 19  >
+<headword>#<b>#[17] #18# Similarity #</b>#</headword>
+<headword>#<b>#[18] #19# Dissimilarity #</b>#</headword>
+</headGroup>
+
+<headGroup 20 21  >
+<headword>#<b>#[19] #20# Imitation #</b>#</headword>
+<headword>#<b>#[20] #21# Nonimitation #</b>#</headword>
+</headGroup>
+
+
+<headGroup 22  >
+<headword>#<b>#[20a] #22# Variation #</b>#</headword>
+</headGroup>
+
+<headGroup 23  >
+<headword>#<b>#[21] #23# Copy #</b>#</headword>
+</headGroup>
+
+<headGroup 24  >
+<headword>#<b>#[22] #24# Prototype #</b>#</headword>
+</headGroup>
+
+<headGroup 25 26  >
+<headword>#<b>#[23] #25# Agreement #</b>#</headword>
+<headword>#<b>#[24] #26# Disagreement #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 3 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#QUANTITY #</b>#</size>#</sectionTitle>
+
+<headGroup 27 28  >
+<headword>#<b>#[25] #27# Quantity #</b>#</headword>
+<headword>#<b>#[26] #28# Degree #</b>#</headword>
+</headGroup>
+
+<headGroup 29 30  >
+<headword>#<b>#[27] #29# Equality #</b>#</headword>
+<headword>#<b>#[28] #30# Inequality #</b>#</headword>
+</headGroup>
+
+<headGroup 31 32  >
+<headword>#<b>#[29] #31# Mean #</b>#</headword>
+<headword>#<b>#[30] #32# Compensation #</b>#</headword>
+</headGroup>
+
+<headGroup 33 34  >
+<headword>#<b>#[31] #33# Greatness #</b>#</headword>
+<headword>#<b>#[32] #34# Smallness #</b>#</headword>
+</headGroup>
+
+<headGroup 35 36  >
+<headword>#<b>#[33] #35# Superiority #</b>#</headword>
+<headword>#<b>#[34] #36# Inferiority #</b>#</headword>
+</headGroup>
+
+<headGroup 37 38  >
+<headword>#<b>#[35] #37# Increase #</b>#</headword>
+<headword>#<b>#[36] #38# Decrease #</b>#</headword>
+</headGroup>
+
+<headGroup 39 40  >
+<headword>#<b>#[37] #39# Addition #</b>#</headword>
+<headword>#<b>#[38] #40# Subtraction #</b>#</headword>
+</headGroup>
+
+<headGroup 41 42 43 >
+<headword>#<b>#[39] #41# Adjunct #</b>#</headword>
+<headword>#<b>#[40] #42# Remainder #</b>#</headword>
+<headword>#<b>#[40a] #43# Decrement #</b>#</headword>
+</headGroup>
+
+<headGroup 44 45  >
+<headword>#<b>#[41] #44# Mixture #</b>#</headword>
+<headword>#<b>#[42] #45# Simpleness #</b>#</headword>
+</headGroup>
+
+<headGroup 46 47 >
+<headword>#<b>#[43] #46# Junction #</b>#</headword>
+<headword>#<b>#[44] #47# Disjunction #</b>#</headword>
+</headGroup>
+
+<headGroup 48  >
+<headword>#<b>#[45] #48# Connection #</b>#</headword>
+</headGroup>
+
+<headGroup 49 50  >
+<headword>#<b>#[46] #49# Coherence #</b>#</headword>
+<headword>#<b>#[47] #50# Incoherence #</b>#</headword>
+</headGroup>
+
+<headGroup 51 52 >
+<headword>#<b>#[48] #51# Combination #</b>#</headword>
+<headword>#<b>#[49] #52# Decomposition #</b>#</headword>
+</headGroup>
+
+<headGroup 53 54  >
+<headword>#<b>#[50] #53# Whole #</b>#</headword>
+<headword>#<b>#[51] #54# Part #</b>#</headword>
+</headGroup>
+
+<headGroup 55 56  >
+<headword>#<b>#[52] #55# Completeness #</b>#</headword>
+<headword>#<b>#[53] #56# Incompleteness #</b>#</headword>
+</headGroup>
+
+<headGroup 57 58  >
+<headword>#<b>#[54] #57# Composition #</b>#</headword>
+<headword>#<b>#[55] #58# Exclusion #</b>#</headword>
+</headGroup>
+
+<headGroup 59  >
+<headword>#<b>#[56] #59# Component #</b>#</headword>
+</headGroup>
+
+<headGroup 60  >
+<headword>#<b>#[57] #60# Extraneousness #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 4 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#ORDER #</b>#</size>#</sectionTitle>
+
+<headGroup 61 62  >
+<headword>#<b>#[58] #61# Order #</b>#</headword>
+<headword>#<b>#[59] #62# Disorder #</b>#</headword>
+</headGroup>
+
+<headGroup 63  >
+<headword>#<b>#[59a] #63# Complexity #</b>#</headword>
+</headGroup>
+
+<headGroup 64 65  >
+<headword>#<b>#[60] #64# Arrangement #</b>#</headword>
+<headword>#<b>#[61] #65# Derangement #</b>#</headword>
+</headGroup>
+
+<headGroup 66  >
+<headword>#<b>#[62] #66# Precedence #</b>#</headword>
+</headGroup>
+
+<headGroup 67  >
+<headword>#<b>#[63] #67# Sequence #</b>#</headword>
+</headGroup>
+
+<headGroup 68 69  >
+<headword>#<b>#[64] #68# Precursor #</b>#</headword>
+<headword>#<b>#[65] #69# Sequel #</b>#</headword>
+</headGroup>
+
+<headGroup 70 71 72 >
+<headword>#<b>#[66] #70# Beginning #</b>#</headword>
+<headword>#<b>#[67] #71# End #</b>#</headword>
+<headword>#<b>#[68] #72# Middle #</b>#</headword>
+</headGroup>
+
+<headGroup 73 74  >
+<headword>#<b>#[69] #73# Continuity #</b>#</headword>
+<headword>#<b>#[70] #74# Discontinuity #</b>#</headword>
+</headGroup>
+
+<headGroup 75 76  >
+<headword>#<b>#[71] #75# Term #</b>#</headword>
+<headword>#<b>#[72] #76# Assemblage #</b>#</headword>
+</headGroup>
+
+<headGroup 77 78  >
+<headword>#<b>#[73] #77# Dispersion #</b>#</headword>
+<headword>#<b>#[74] #78# Focus #</b>#</headword>
+</headGroup>
+
+<headGroup 79  >
+<headword>#<b>#[75] #79# Class #</b>#</headword>
+</headGroup>
+
+<headGroup 80 81  >
+<headword>#<b>#[76] #80# Inclusion #</b>#</headword>
+<headword>#<b>#[77] #81# Exclusion #</b>#</headword>
+</headGroup>
+
+<headGroup 82  83  >
+<headword>#<b>#[78] #82# Generality #</b>#</headword>
+<headword>#<b>#[79] #83# Speciality #</b>#</headword>
+</headGroup>
+
+<headGroup 84 85  >
+<headword>#<b>#[80] #84# Normality #</b>#</headword>
+<headword>#<b>#[81] #85# Multiformity #</b>#</headword>
+</headGroup>
+
+<headGroup 86 87  >
+<headword>#<b>#[82] #86# Conformity #</b>#</headword>
+<headword>#<b>#[83] #87# Unconformity #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 5 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#NUMBER #</b>#</size>#</sectionTitle>
+
+<headGroup 88 89  >
+<headword>#<b>#[84] #88# Number #</b>#</headword>
+<headword>#<b>#[85] #89# Numeration #</b>#</headword>
+</headGroup>
+
+<headGroup 90 91  >
+<headword>#<b>#[86] #90# List #</b>#</headword>
+<headword>#<b>#[87] #91# Unity #</b>#</headword>
+</headGroup>
+
+<headGroup 92  >
+<headword>#<b>#[88] #92# Accompaniment #</b>#</headword>
+</headGroup>
+
+<headGroup 93 94 95 >
+<headword>#<b>#[89] #93# Duality #</b>#</headword>
+<headword>#<b>#[90] #94# Duplication #</b>#</headword>
+<headword>#<b>#[91] #95# bisection #</b>#</headword>
+</headGroup>
+
+<headGroup 96 97 98  >
+<headword>#<b>#[92] #96# Triality #</b>#</headword>
+<headword>#<b>#[93] #97# Triplication #</b>#</headword>
+<headword>#<b>#[94] #98# Trisection #</b>#</headword>
+</headGroup>
+
+<headGroup 99 100 101  >
+<headword>#<b>#[95] #99# Four #</b>#</headword>
+<headword>#<b>#[96] #100# Quadruplication #</b>#</headword>
+<headword>#<b>#[97] #101# Quadrisection #</b>#</headword>
+</headGroup>
+
+<headGroup 102 103  >
+<headword>#<b>#[98] #102# Five  #</b>#</headword>
+<headword>#<b>#[99] #103# Quinquesection  #</b>#</headword>
+</headGroup>
+
+<headGroup 104  >
+<headword>#<b>#[100] #104# Plurality  #</b>#</headword>
+</headGroup>
+
+<headGroup 105 106  >
+<headword>#<b>#[100a] #105# Fraction #</b>#</headword>
+<headword>#<b>#[101] #106# Zero #</b>#</headword>
+</headGroup>
+
+<headGroup 107 108  >
+<headword>#<b>#[102] #107# Multitude #</b>#</headword>
+<headword>#<b>#[103] #108# Fewness #</b>#</headword>
+</headGroup>
+
+<headGroup 109  >
+<headword>#<b>#[104] #109# Repetition #</b>#</headword>
+</headGroup>
+
+<headGroup 110  >
+<headword>#<b>#[105] #110# Infinity #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 6 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#TIME #</b>#</size>#</sectionTitle>
+
+<headGroup 111  >
+<headword>#<b>#[106] #111# Time #</b>#</headword>
+</headGroup>
+
+<headGroup 112 113 114  >
+<headword>#<b>#[107] #112# Neverness #</b>#</headword>
+<headword>#<b>#[108] #113# Period #</b>#</headword>
+<headword>#<b>#[108a] #114# Contingent Duration #</b>#</headword>
+</headGroup>
+
+
+<headGroup 115  >
+<headword>#<b>#[109] #115# Course #</b>#</headword>
+</headGroup>
+
+<headGroup 116  >
+<headword>#<b>#[110] #116# Diuturnity #</b>#</headword>
+</headGroup>
+
+<headGroup 117 118  >
+<headword>#<b>#[111] #117# Transientness #</b>#</headword>
+<headword>#<b>#[112] #118# Perpetuity #</b>#</headword>
+</headGroup>
+
+<headGroup 119 120 121  >
+<headword>#<b>#[113] #119# Instantaneity #</b>#</headword>
+<headword>#<b>#[114] #120# Chronometry #</b>#</headword>
+<headword>#<b>#[115] #121# Anachronism #</b>#</headword>
+</headGroup>
+
+<headGroup 122 123  >
+<headword>#<b>#[116] #122# Priority #</b>#</headword>
+<headword>#<b>#[117] #123# Posteriority #</b>#</headword>
+</headGroup>
+
+<headGroup 124 125  >
+<headword>#<b>#[118] #124# The Present Time #</b>#</headword>
+<headword>#<b>#[119] #125# Different time #</b>#</headword>
+</headGroup>
+
+<headGroup 126  >
+<headword>#<b>#[120] #126# Synchronism #</b>#</headword>
+</headGroup>
+
+<headGroup 127 128  >
+<headword>#<b>#[121] #127# Futurity #</b>#</headword>
+<headword>#<b>#[122] #128# The Past #</b>#</headword>
+</headGroup>
+
+<headGroup 129 130  >
+<headword>#<b>#[123] #129# Newness #</b>#</headword>
+<headword>#<b>#[124] #130# Oldness #</b>#</headword>
+</headGroup>
+
+<headGroup 131 132 >
+<headword>#<b>#[125] #131# Morning #</b>#</headword>
+<headword>#<b>#[126] #132# Evening #</b>#</headword>
+</headGroup>
+
+<headGroup 133 134  >
+<headword>#<b>#[127] #133# Youth #</b>#</headword>
+<headword>#<b>#[128] #134# Age #</b>#</headword>
+</headGroup>
+
+<headGroup 135 136  >
+<headword>#<b>#[129] #135# Infant #</b>#</headword>
+<headword>#<b>#[130] #136# Veteran #</b>#</headword>
+</headGroup>
+
+<headGroup 137  >
+<headword>#<b>#[131] #137# Adolescence #</b>#</headword>
+</headGroup>
+
+<headGroup 138 139 140  >
+<headword>#<b>#[132] #138# Earliness #</b>#</headword>
+<headword>#<b>#[132a] #139# Punctuality #</b>#</headword>
+<headword>#<b>#[133] #140# Lateness #</b>#</headword>
+</headGroup>
+
+<headGroup 141  >
+<headword>#<b>#[134] #141# Occasion #</b>#</headword>
+</headGroup>
+
+<headGroup 142  >
+<headword>#<b>#[135] #142# Untimeliness #</b>#</headword>
+</headGroup>
+
+<headGroup 143 144  >
+<headword>#<b>#[136] #143# Frequency #</b>#</headword>
+<headword>#<b>#[137] #144# Infrequency #</b>#</headword>
+</headGroup>
+
+<headGroup 145 146  >
+<headword>#<b>#[138] #145# Periodicity #</b>#</headword>
+<headword>#<b>#[139] #146# Irregularity of recurrence #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 7 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#CHANGE #</b>#</size>#</sectionTitle>
+
+<headGroup 147  >
+<headword>#<b>#[140] #147# Change #</b>#</headword>
+</headGroup>
+
+<headGroup 148 149  >
+<headword>#<b>#[141] #148# Permanence #</b>#</headword>
+<headword>#<b>#[142] #149# Cessation #</b>#</headword>
+</headGroup>
+
+<headGroup 150 151  >
+<headword>#<b>#[143] #150# Continuance in action #</b>#</headword>
+<headword>#<b>#[144] #151# Conversion #</b>#</headword>
+</headGroup>
+
+<headGroup 152 153  >
+<headword>#<b>#[145] #152# Reversion #</b>#</headword>
+<headword>#<b>#[146] #153# Revolution #</b>#</headword>
+</headGroup>
+
+<headGroup 154 155  >
+<headword>#<b>#[147] #154# Substitution #</b>#</headword>
+<headword>#<b>#[148] #155# Interchange #</b>#</headword>
+</headGroup>
+
+<headGroup 156 157  >
+<headword>#<b>#[149] #156# Changeableness #</b>#</headword>
+<headword>#<b>#[150] #157# Stability #</b>#</headword>
+</headGroup>
+
+<headGroup 158 159  >
+<headword>#<b>#[151] #158# Eventuality #</b>#</headword>
+<headword>#<b>#[152] #159# Destiny #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 8 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#CAUSATION #</b>#</size>#</sectionTitle>
+
+<headGroup 160 161 >
+<headword>#<b>#[153] #160# Cause #</b>#</headword>
+<headword>#<b>#[154] #161# Effect #</b>#</headword>
+</headGroup>
+
+<headGroup 162 163  >
+<headword>#<b>#[155] #162# Attribution #</b>#</headword>
+<headword>#<b>#[156] #163# Chance #</b>#</headword>
+</headGroup>
+
+<headGroup 164 165  >
+<headword>#<b>#[157] #164# Power #</b>#</headword>
+<headword>#<b>#[158] #165# Impotence #</b>#</headword>
+</headGroup>
+
+<headGroup 166 167  >
+<headword>#<b>#[159] #166# Strength #</b>#</headword>
+<headword>#<b>#[160] #167# Weakness #</b>#</headword>
+</headGroup>
+
+<headGroup 168 169  >
+<headword>#<b>#[161] #168# Production #</b>#</headword>
+<headword>#<b>#[162] #169# Destruction #</b>#</headword>
+</headGroup>
+
+<headGroup 170  >
+<headword>#<b>#[163] #170# Reproduction #</b>#</headword>
+</headGroup>
+
+<headGroup 171 172  >
+<headword>#<b>#[164] #171# Producer #</b>#</headword>
+<headword>#<b>#[165] #172# Destroyer #</b>#</headword>
+</headGroup>
+
+<headGroup 173 174  >
+<headword>#<b>#[166] #173# Paternity #</b>#</headword>
+<headword>#<b>#[167] #174# Posterity #</b>#</headword>
+</headGroup>
+
+<headGroup 175 176  >
+<headword>#<b>#[168] #175# Productiveness #</b>#</headword>
+<headword>#<b>#[169] #176# Unproductiveness #</b>#</headword>
+</headGroup>
+
+<headGroup 177  >
+<headword>#<b>#[170] #177# Agency #</b>#</headword>
+</headGroup>
+
+<headGroup 178 179  >
+<headword>#<b>#[171] #178# Physical Energy #</b>#</headword>
+<headword>#<b>#[172] #179# Physical Inertness #</b>#</headword>
+</headGroup>
+
+<headGroup 180 181  >
+<headword>#<b>#[173] #180# Violence #</b>#</headword>
+<headword>#<b>#[174] #181# Moderation #</b>#</headword>
+</headGroup>
+
+<headGroup 182 183 184 >
+<headword>#<b>#[175] #182# Influence #</b>#</headword>
+<headword>#<b>#[175a] #183# Absence of Influence #</b>#</headword>
+<headword>#<b>#[176] #184# Tendency #</b>#</headword>
+</headGroup>
+
+<headGroup 185  >
+<headword>#<b>#[177] #185# Liability #</b>#</headword>
+</headGroup>
+
+<headGroup 186 187  >
+<headword>#<b>#[178] #186# Concurrence #</b>#</headword>
+<headword>#<b>#[179] #187# Counteraction #</b>#</headword>
+</headGroup>
+
+</section>
+
+</class>
+
+
+
+<classNumber>#<i>#Class 2 #</i>#</classNumber>
+<classTitle>#<i>#WORDS RELATING TO SPACE #</i>#</classTitle>
+
+<sectionNumber>#Section 9 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#SPACE IN GENERAL #</b>#</size>#</sectionTitle>
+
+<headGroup 188 189 190 >
+<headword>#<b>#[180] #188# Space #</b>#</headword>
+<headword>#<b>#[180a] #189# Inextension #</b>#</headword>
+<headword>#<b>#[181] #190# Region #</b>#</headword>
+</headGroup>
+
+<headGroup 191 >
+<headword>#<b>#[182] #191# Place #</b>#</headword>
+</headGroup>
+
+<headGroup 192  >
+<headword>#<b>#[183] #192# Situation #</b>#</headword>
+</headGroup>
+
+<headGroup 193 194  >
+<headword>#<b>#[184] #193# Location #</b>#</headword>
+<headword>#<b>#[185] #194# Displacement #</b>#</headword>
+</headGroup>
+
+<headGroup 195 196  >
+<headword>#<b>#[186] #195# Presence #</b>#</headword>
+<headword>#<b>#[187] #196# Absence #</b>#</headword>
+</headGroup>
+
+<headGroup 197  >
+<headword>#<b>#[188] #197# Inhabitant #</b>#</headword>
+</headGroup>
+
+<headGroup 198  >
+<headword>#<b>#[189] #198# Abode #</b>#</headword>
+</headGroup>
+
+<headGroup 199  >
+<headword>#<b>#[190] #199# Contents #</b>#</headword>
+</headGroup>
+
+<headGroup 200  >
+<headword>#<b>#[191] #200# Receptacle #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 10 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#DIMENSIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 201 202 >
+<headword>#<b>#[192] #201# Size #</b>#</headword>
+<headword>#<b>#[193] #202# Littleness #</b>#</headword>
+</headGroup>
+
+<headGroup 203 204  >
+<headword>#<b>#[194] #203# Expansion #</b>#</headword>
+<headword>#<b>#[195] #204# Contraction #</b>#</headword>
+</headGroup>
+
+<headGroup 205 206  >
+<headword>#<b>#[196] #205# Distance #</b>#</headword>
+<headword>#<b>#[197] #206# Nearness #</b>#</headword>
+</headGroup>
+
+<headGroup 207 208  >
+<headword>#<b>#[198] #207# Interval #</b>#</headword>
+<headword>#<b>#[199] #208# Contiguity #</b>#</headword>
+</headGroup>
+
+<headGroup 209 210  >
+<headword>#<b>#[200] #209# Length #</b>#</headword>
+<headword>#<b>#[201] #210# Shortness #</b>#</headword>
+</headGroup>
+
+<headGroup 211 212  >
+<headword>#<b>#[202] #211# Thickness #</b>#</headword>
+<headword>#<b>#[203] #212# Thinness #</b>#</headword>
+</headGroup>
+
+<headGroup 213 214  >
+<headword>#<b>#[204] #213# Layer #</b>#</headword>
+<headword>#<b>#[205] #214# Filament #</b>#</headword>
+</headGroup>
+
+<headGroup 215 216  >
+<headword>#<b>#[206] #215# Height #</b>#</headword>
+<headword>#<b>#[207] #216# Lowness #</b>#</headword>
+</headGroup>
+
+<headGroup 217 218  >
+<headword>#<b>#[208] #217# Depth #</b>#</headword>
+<headword>#<b>#[209] #218# Shallowness #</b>#</headword>
+</headGroup>
+
+<headGroup 219 220  >
+<headword>#<b>#[210] #219# Summit #</b>#</headword>
+<headword>#<b>#[211] #220# Base #</b>#</headword>
+</headGroup>
+
+<headGroup 221 222  >
+<headword>#<b>#[212] #221# Verticality #</b>#</headword>
+<headword>#<b>#[213] #222# Horizontality #</b>#</headword>
+</headGroup>
+
+<headGroup 223 224  >
+<headword>#<b>#[214] #223# Pendency #</b>#</headword>
+<headword>#<b>#[215] #224# Support #</b>#</headword>
+</headGroup>
+
+<headGroup 225 226  >
+<headword>#<b>#[216] #225# Parallelism #</b>#</headword>
+<headword>#<b>#[216a] #226# Perpendicularity #</b>#</headword>
+</headGroup>
+
+<headGroup 227 228  >
+<headword>#<b>#[217] #227# Obliquity #</b>#</headword>
+<headword>#<b>#[218] #228# Inversion #</b>#</headword>
+</headGroup>
+
+<headGroup 229 230  >
+<headword>#<b>#[219] #229# Crossing #</b>#</headword>
+<headword>#<b>#[220] #230# Exteriority #</b>#</headword>
+</headGroup>
+
+<headGroup 231 232  >
+<headword>#<b>#[221] #231# Interiority #</b>#</headword>
+<headword>#<b>#[222] #232# Centrality #</b>#</headword>
+</headGroup>
+
+<headGroup 233 234  >
+<headword>#<b>#[223] #233# Covering #</b>#</headword>
+<headword>#<b>#[224] #234# Lining #</b>#</headword>
+</headGroup>
+
+<headGroup 235 236  >
+<headword>#<b>#[225] #235# Clothing #</b>#</headword>
+<headword>#<b>#[226] #236# Divestment #</b>#</headword>
+</headGroup>
+
+<headGroup 237  >
+<headword>#<b>#[227] #237# Circumjacence #</b>#</headword>
+</headGroup>
+
+<headGroup 238 239  >
+<headword>#<b>#[228] #238# Interposition #</b>#</headword>
+<headword>#<b>#[229] #239# Circumscription #</b>#</headword>
+</headGroup>
+
+<headGroup 240  >
+<headword>#<b>#[230] #240# Outline #</b>#</headword>
+</headGroup>
+
+<headGroup 241  >
+<headword>#<b>#[231] #241# Edge #</b>#</headword>
+</headGroup>
+
+<headGroup 242  >
+<headword>#<b>#[232] #242# Inclosure #</b>#</headword>
+</headGroup>
+
+<headGroup 243  >
+<headword>#<b>#[233] #243# Limit #</b>#</headword>
+</headGroup>
+
+<headGroup 244 245  >
+<headword>#<b>#[234] #244# Front #</b>#</headword>
+<headword>#<b>#[235] #245# Rear #</b>#</headword>
+</headGroup>
+
+<headGroup 246 247  >
+<headword>#<b>#[236] #246# Laterality #</b>#</headword>
+<headword>#<b>#[237] #247# Contraposition #</b>#</headword>
+</headGroup>
+
+<headGroup 248 249  >
+<headword>#<b>#[238] #248# Dextrality #</b>#</headword>
+<headword>#<b>#[239] #249# Sinistrality #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 11 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#FORM #</b>#</size>#</sectionTitle>
+
+<headGroup 250 251  >
+<headword>#<b>#[240] #250# Form #</b>#</headword>
+<headword>#<b>#[241] #251# Amorphism #</b>#</headword>
+</headGroup>
+
+<headGroup 252 253  >
+<headword>#<b>#[242] #252# Symmetry #</b>#</headword>
+<headword>#<b>#[243] #253# Distortion #</b>#</headword>
+</headGroup>
+
+<headGroup 254  >
+<headword>#<b>#[244] #254# Angularity #</b>#</headword>
+</headGroup>
+
+<headGroup 255 256  >
+<headword>#<b>#[245] #255# Curvature #</b>#</headword>
+<headword>#<b>#[246] #256# Straightness #</b>#</headword>
+</headGroup>
+
+<headGroup 257 258  >
+<headword>#<b>#[247] #257# Circularity #</b>#</headword>
+<headword>#<b>#[248] #258# Convolution #</b>#</headword>
+</headGroup>
+
+<headGroup 259  >
+<headword>#<b>#[249] #259# Rotundity #</b>#</headword>
+</headGroup>
+
+<headGroup 260 261  >
+<headword>#<b>#[250] #260# Convexity #</b>#</headword>
+<headword>#<b>#[251] #261# Flatness #</b>#</headword>
+</headGroup>
+
+<headGroup 262 263  >
+<headword>#<b>#[252] #262# Concavity #</b>#</headword>
+<headword>#<b>#[252a] #263# Sponge #</b>#</headword>
+</headGroup>
+
+<headGroup 264 265  >
+<headword>#<b>#[253] #264# Sharpness #</b>#</headword>
+<headword>#<b>#[254] #265# Bluntness #</b>#</headword>
+</headGroup>
+
+<headGroup 266 267  >
+<headword>#<b>#[255] #266# Smoothness #</b>#</headword>
+<headword>#<b>#[256] #267# Roughness #</b>#</headword>
+</headGroup>
+
+<headGroup 268  >
+<headword>#<b>#[257] #268# Notch #</b>#</headword>
+</headGroup>
+
+<headGroup 269  >
+<headword>#<b>#[258] #269# Fold #</b>#</headword>
+</headGroup>
+
+<headGroup 270  >
+<headword>#<b>#[259] #270# Furrow #</b>#</headword>
+</headGroup>
+
+<headGroup 271 272  >
+<headword>#<b>#[260] #271# Opening #</b>#</headword>
+<headword>#<b>#[261] #272# Closure #</b>#</headword>
+</headGroup>
+
+<headGroup 273  >
+<headword>#<b>#[262] #273# Perforator #</b>#</headword>
+</headGroup>
+
+<headGroup 274  >
+<headword>#<b>#[263] #274# Stopper #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 12 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MOTION #</b>#</size>#</sectionTitle>
+
+<headGroup 275 276  >
+<headword>#<b>#[264] #275# Motion #</b>#</headword>
+<headword>#<b>#[265] #276# Quiescence #</b>#</headword>
+</headGroup>
+
+<headGroup 277  >
+<headword>#<b>#[266] #277# Journey #</b>#</headword>
+</headGroup>
+
+<headGroup 278  >
+<headword>#<b>#[267] #278# Navigation #</b>#</headword>
+</headGroup>
+
+<headGroup 279  >
+<headword>#<b>#[268] #279# Traveler #</b>#</headword>
+</headGroup>
+
+<headGroup 280  >
+<headword>#<b>#[269] #280# Mariner #</b>#</headword>
+</headGroup>
+
+<headGroup 281 282  >
+<headword>#<b>#[270] #281# Transference #</b>#</headword>
+<headword>#<b>#[271] #282# Carrier #</b>#</headword>
+</headGroup>
+
+<headGroup 283 284  >
+<headword>#<b>#[272] #283# Vehicle #</b>#</headword>
+<headword>#<b>#[273] #284# Ship #</b>#</headword>
+</headGroup>
+
+<headGroup 285 286  >
+<headword>#<b>#[274] #285# Velocity #</b>#</headword>
+<headword>#<b>#[275] #286# Slowness #</b>#</headword>
+</headGroup>
+
+<headGroup 287 288 289  >
+<headword>#<b>#[276] #287# Impulse #</b>#</headword>
+<headword>#<b>#[277] #288# Recoil #</b>#</headword>
+<headword>#<b>#[278] #289# Direction #</b>#</headword>
+</headGroup>
+
+<headGroup 290  >
+<headword>#<b>#[279] #290# Deviation #</b>#</headword>
+</headGroup>
+
+<headGroup 291 292  >
+<headword>#<b>#[280] #291# Precession #</b>#</headword>
+<headword>#<b>#[281] #292# Sequence #</b>#</headword>
+</headGroup>
+
+<headGroup 293 294  >
+<headword>#<b>#[282] #293# Progression #</b>#</headword>
+<headword>#<b>#[283] #294# Regression #</b>#</headword>
+</headGroup>
+
+<headGroup 295 296  >
+<headword>#<b>#[284] #295# Propulsion #</b>#</headword>
+<headword>#<b>#[285] #296# Traction #</b>#</headword>
+</headGroup>
+
+<headGroup 297 298  >
+<headword>#<b>#[286] #297# Approach #</b>#</headword>
+<headword>#<b>#[287] #298# Recession #</b>#</headword>
+</headGroup>
+
+<headGroup 299 300  >
+<headword>#<b>#[288] #299# Attraction #</b>#</headword>
+<headword>#<b>#[289] #300# Repulsion #</b>#</headword>
+</headGroup>
+
+<headGroup 301 302  >
+<headword>#<b>#[290] #301# Convergence #</b>#</headword>
+<headword>#<b>#[291] #302# Divergence #</b>#</headword>
+</headGroup>
+
+<headGroup 303 304  >
+<headword>#<b>#[292] #303# Arrival #</b>#</headword>
+<headword>#<b>#[293] #304# Departure #</b>#</headword>
+</headGroup>
+
+<headGroup 305 306  >
+<headword>#<b>#[294] #305# Ingress #</b>#</headword>
+<headword>#<b>#[295] #306# Egress #</b>#</headword>
+</headGroup>
+
+<headGroup 307 308  >
+<headword>#<b>#[296] #307# Reception #</b>#</headword>
+<headword>#<b>#[297] #308# Ejection #</b>#</headword>
+</headGroup>
+
+<headGroup 309 310  >
+<headword>#<b>#[298] #309# Food #</b>#</headword>
+<headword>#<b>#[299] #310# Excretion #</b>#</headword>
+</headGroup>
+
+<headGroup 311 312  >
+<headword>#<b>#[300] #311# Insertion #</b>#</headword>
+<headword>#<b>#[301] #312# Extraction #</b>#</headword>
+</headGroup>
+
+<headGroup 313  >
+<headword>#<b>#[302] #313# Passage #</b>#</headword>
+</headGroup>
+
+<headGroup 314 315  >
+<headword>#<b>#[303] #314# Transcursion #</b>#</headword>
+<headword>#<b>#[304] #315# Shortcoming #</b>#</headword>
+</headGroup>
+
+<headGroup 316 317  >
+<headword>#<b>#[305] #316# Ascent #</b>#</headword>
+<headword>#<b>#[306] #317# Descent #</b>#</headword>
+</headGroup>
+
+<headGroup 318  >
+<headword>#<b>#[307] #318# Elevation #</b>#</headword>
+</headGroup>
+
+<headGroup 319  >
+<headword>#<b>#[308] #319# Depression #</b>#</headword>
+</headGroup>
+
+<headGroup 320 321 >
+<headword>#<b>#[309] #320# Leap #</b>#</headword>
+<headword>#<b>#[310] #321# Plunge #</b>#</headword>
+</headGroup>
+
+<headGroup 322 323  >
+<headword>#<b>#[311] #322# Circuition #</b>#</headword>
+<headword>#<b>#[312] #323# Rotation #</b>#</headword>
+</headGroup>
+
+<headGroup 324  >
+<headword>#<b>#[313] #324# Evolution #</b>#</headword>
+</headGroup>
+
+<headGroup 325  >
+<headword>#<b>#[314] #325# Oscillation #</b>#</headword>
+</headGroup>
+
+<headGroup 326  >
+<headword>#<b>#[315] #326# Agitation #</b>#</headword>
+</headGroup>
+</section>
+</class>
+
+<classNumber>#<i>#Class 3 #</i>#</classNumber>
+<classTitle>#<i>#WORDS RELATING TO MATTER #</i>#</classTitle>
+
+<sectionNumber>#Section 13 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MATTER IN GENERAL #</b>#</size>#</sectionTitle>
+
+
+<headGroup 327 328  >
+<headword>#<b>#[316] #327# Materiality #</b>#</headword>
+<headword>#<b>#[317] #328# Immateriality #</b>#</headword>
+</headGroup>
+
+
+<headGroup 329  >
+<headword>#<b>#[318] #329# World #</b>#</headword>
+</headGroup>
+
+<headGroup 330 331  >
+<headword>#<b>#[319] #330# Gravity #</b>#</headword>
+<headword>#<b>#[320] #331# Levity #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 14 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#INORGANIC MATTER #</b>#</size>#</sectionTitle>
+
+<headGroup 332 333  >
+<headword>#<b>#[321] #332# Density #</b>#</headword>
+<headword>#<b>#[322] #333# Rarity #</b>#</headword>
+</headGroup>
+
+<headGroup 334 335  >
+<headword>#<b>#[323] #334# Hardness #</b>#</headword>
+<headword>#<b>#[324] #335# Softness #</b>#</headword>
+</headGroup>
+
+<headGroup 336 337 >
+<headword>#<b>#[325] #336# Elasticity #</b>#</headword>
+<headword>#<b>#[326] #337# Inelasticity #</b>#</headword>
+</headGroup>
+
+<headGroup 338 339  >
+<headword>#<b>#[327] #338# Tenacity #</b>#</headword>
+<headword>#<b>#[328] #339# Brittleness #</b>#</headword>
+</headGroup>
+
+<headGroup 340 341  >
+<headword>#<b>#[329] #340# Texture #</b>#</headword>
+<headword>#<b>#[330] #341# Pulverulence #</b>#</headword>
+</headGroup>
+
+<headGroup 342 343  >
+<headword>#<b>#[331] #342# Friction #</b>#</headword>
+<headword>#<b>#[332] #343# Lubrication #</b>#</headword>
+</headGroup>
+
+<headGroup 344 345  >
+<headword>#<b>#[333] #344# Fluidity #</b>#</headword>
+<headword>#<b>#[334] #345# Gaseity #</b>#</headword>
+</headGroup>
+
+<headGroup 346 347  >
+<headword>#<b>#[335] #346# Liquefaction #</b>#</headword>
+<headword>#<b>#[336] #347# Vaporization #</b>#</headword>
+</headGroup>
+
+<headGroup 348 349  >
+<headword>#<b>#[337] #348# Water #</b>#</headword>
+<headword>#<b>#[338] #349# Air #</b>#</headword>
+</headGroup>
+
+<headGroup 350 351  >
+<headword>#<b>#[339] #350# Moisture #</b>#</headword>
+<headword>#<b>#[340] #351# Dryness #</b>#</headword>
+</headGroup>
+
+<headGroup 352 353  >
+<headword>#<b>#[341] #352# Ocean #</b>#</headword>
+<headword>#<b>#[342] #353# Land #</b>#</headword>
+</headGroup>
+
+<headGroup 354 355  >
+<headword>#<b>#[343] #354# Lake #</b>#</headword>
+<headword>#<b>#[344] #355# Plain #</b>#</headword>
+</headGroup>
+
+<headGroup 356 357  >
+<headword>#<b>#[345] #356# Marsh #</b>#</headword>
+<headword>#<b>#[346] #357# Island #</b>#</headword>
+</headGroup>
+
+<headGroup 358 359  >
+<headword>#<b>#[347] #358# Stream #</b>#</headword>
+<headword>#<b>#[348] #359# River #</b>#</headword>
+</headGroup>
+
+<headGroup 360 361  >
+<headword>#<b>#[349] #360# Wind #</b>#</headword>
+<headword>#<b>#[350] #361# Conduit #</b>#</headword>
+</headGroup>
+
+<headGroup 362 363  >
+<headword>#<b>#[351] #362# Airpipe #</b>#</headword>
+<headword>#<b>#[352] #363# Semiliquidity #</b>#</headword>
+</headGroup>
+
+<headGroup 364  >
+<headword>#<b>#[353] #364# Bubble #</b>#</headword>
+</headGroup>
+
+<headGroup 365  >
+<headword>#<b>#[354] #365# Pulpiness #</b>#</headword>
+</headGroup>
+
+<headGroup 366  >
+<headword>#<b>#[355] #366# Unctuousness #</b>#</headword>
+</headGroup>
+
+<headGroup 367  >
+<headword>#<b>#[356] #367# Oil #</b>#</headword>
+</headGroup>
+
+<headword>#<b>#[356a] #368# Resin #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 15 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#ORGANIC MATTER #</b>#</size>#</sectionTitle>
+
+<headGroup 369 370  >
+<headword>#<b>#[357] #369# Organization #</b>#</headword>
+<headword>#<b>#[358] #370# Inorganization #</b>#</headword>
+</headGroup>
+
+<headGroup 371 372  >
+<headword>#<b>#[359] #371# Life #</b>#</headword>
+<headword>#<b>#[360] #372# Death #</b>#</headword>
+</headGroup>
+
+<headGroup 373  >
+<headword>#<b>#[361] #373# Killing #</b>#</headword>
+</headGroup>
+
+<headGroup 374  >
+<headword>#<b>#[362] #374# Corpse #</b>#</headword>
+</headGroup>
+
+<headGroup 375  >
+<headword>#<b>#[363] #375# Interment #</b>#</headword>
+</headGroup>
+
+<headGroup 376 377  >
+<headword>#<b>#[364] #376# Animality #</b>#</headword>
+<headword>#<b>#[365] #377# Vegetability #</b>#</headword>
+</headGroup>
+
+<headGroup 378  >
+<headword>#<b>#[366] #378# Animal #</b>#</headword>
+</headGroup>
+
+<headGroup 379  >
+<headword>#<b>#[367] #379# Vegetable #</b>#</headword>
+</headGroup>
+
+<headGroup 380 381  >
+<headword>#<b>#[368] #380# Zoology #</b>#</headword>
+<headword>#<b>#[369] #381# Botany #</b>#</headword>
+</headGroup>
+
+<headGroup 382 383  >
+<headword>#<b>#[370] #382# Husbandry #</b>#</headword>
+<headword>#<b>#[371] #383# Agriculture #</b>#</headword>
+</headGroup>
+
+<headGroup 384  >
+<headword>#<b>#[372] #384# Mankind #</b>#</headword>
+</headGroup>
+
+<headGroup 385 386  >
+<headword>#<b>#[373] #385# Man #</b>#</headword>
+<headword>#<b>#[374] #386# Woman #</b>#</headword>
+</headGroup>
+
+<headGroup 387  >
+<headword>#<b>#[374a] #387# Sexuality #</b>#</headword>
+</headGroup>
+
+<headGroup 388 389  >
+<headword>#<b>#[375] #388# Physical Sensibility #</b>#</headword>
+<headword>#<b>#[376] #389# Physical Insensibility #</b>#</headword>
+</headGroup>
+
+<headGroup 390 391  >
+<headword>#<b>#[377] #390# Physical Pleasure #</b>#</headword>
+<headword>#<b>#[378] #391# Physical Pain #</b>#</headword>
+</headGroup>
+
+<headGroup 392 393  >
+<headword>#<b>#[379] #392# Touch #</b>#</headword>
+<headword>#<b>#[380] #393# Sensations of Touch #</b>#</headword>
+</headGroup>
+
+<headGroup 394  >
+<headword>#<b>#[381] #394# Numbness #</b>#</headword>
+</headGroup>
+
+<headGroup 395 396  >
+<headword>#<b>#[382] #395# Heat #</b>#</headword>
+<headword>#<b>#[383] #396# Cold #</b>#</headword>
+</headGroup>
+
+<headGroup 397 398  >
+<headword>#<b>#[384] #397# Calefaction #</b>#</headword>
+<headword>#<b>#[385] #398# Refrigeration #</b>#</headword>
+</headGroup>
+
+<headGroup 399  >
+<headword>#<b>#[386] #399# Furnace #</b>#</headword>
+</headGroup>
+
+<headGroup 400 401 402  >
+<headword>#<b>#[387] #400# Refrigerator #</b>#</headword>
+<headword>#<b>#[388] #401# Fuel #</b>#</headword>
+<headword>#<b>#[388a] #402# Insulation   #</b>#</headword>
+</headGroup>
+
+<headGroup 403  >
+<headword>#<b>#[389] #403# Thermometer #</b>#</headword>
+</headGroup>
+
+<headGroup 404 405  >
+<headword>#<b>#[390] #404# Taste #</b>#</headword>
+<headword>#<b>#[391] #405# Insipidity #</b>#</headword>
+</headGroup>
+
+<headGroup 406 407 408 >
+<headword>#<b>#[392] #406# Pungency #</b>#</headword>
+<headword>#<b>#[392a] #407# Saltiness #</b>#</headword>
+<headword>#<b>#[392b] #408# Bitterness #</b>#</headword>
+</headGroup>
+
+<headGroup 409  >
+<headword>#<b>#[393] #409# Condiment #</b>#</headword>
+</headGroup>
+
+<headGroup 410 411  >
+<headword>#<b>#[394] #410# Savoriness #</b>#</headword>
+<headword>#<b>#[395] #411# Unsavoriness #</b>#</headword>
+</headGroup>
+
+<headGroup 412 413  >
+<headword>#<b>#[396] #412# Sweetness #</b>#</headword>
+<headword>#<b>#[397] #413# Sourness #</b>#</headword>
+</headGroup>
+
+<headGroup 414 415  >
+<headword>#<b>#[398] #414# Odor #</b>#</headword>
+<headword>#<b>#[399] #415# Inodorousness #</b>#</headword>
+</headGroup>
+
+<headGroup 416  >
+<headword>#<b>#[400] #416# Fragrance #</b>#</headword>
+</headGroup>
+
+<headGroup 417 418  >
+<headword>#<b>#[401] #417# Fetor #</b>#</headword>
+<headword>#<b>#[401a] #418# Acridity #</b>#</headword>
+</headGroup>
+
+<headGroup 419 420  >
+<headword>#<b>#[402] #419# Sound #</b>#</headword>
+<headword>#<b>#[403] #420# Silence #</b>#</headword>
+</headGroup>
+
+<headGroup 421 422  >
+<headword>#<b>#[404] #421# Loudness #</b>#</headword>
+<headword>#<b>#[405] #422# Faintness #</b>#</headword>
+</headGroup>
+
+<headGroup 423 424 >
+<headword>#<b>#[406] #423# Snap #</b>#</headword>
+<headword>#<b>#[407] #424# Roll #</b>#</headword>
+</headGroup>
+
+<headGroup 425 426  >
+<headword>#<b>#[408] #425# Resonance #</b>#</headword>
+<headword>#<b>#[408a] #426# Nonresonance #</b>#</headword>
+</headGroup>
+
+<headGroup 427 428  >
+<headword>#<b>#[409] #427# Sibilation #</b>#</headword>
+<headword>#<b>#[410] #428# Stridor #</b>#</headword>
+</headGroup>
+
+<headGroup 429 430  >
+<headword>#<b>#[411] #429# Cry #</b>#</headword>
+<headword>#<b>#[412] #430# Ululation #</b>#</headword>
+</headGroup>
+
+<headGroup 431 432  >
+<headword>#<b>#[413] #431# Concord #</b>#</headword>
+<headword>#<b>#[414] #432# Discord #</b>#</headword>
+</headGroup>
+
+<headGroup 433 434 435  >
+<headword>#<b>#[415] #433# Music #</b>#</headword>
+<headword>#<b>#[416] #434# Musician #</b>#</headword>
+<headword>#<b>#[417] #435# Musical Instruments #</b>#</headword>
+</headGroup>
+
+<headGroup 436 437  >
+<headword>#<b>#[418] #436# Hearing #</b>#</headword>
+<headword>#<b>#[419] #437# Deafness #</b>#</headword>
+</headGroup>
+
+<headGroup 438 439  >
+<headword>#<b>#[420] #438# Light #</b>#</headword>
+<headword>#<b>#[421] #439# Darkness #</b>#</headword>
+</headGroup>
+
+<headGroup 440 441  >
+<headword>#<b>#[422] #440# Dimness #</b>#</headword>
+<headword>#<b>#[423] #441# Luminary #</b>#</headword>
+</headGroup>
+
+<headGroup 442  >
+<headword>#<b>#[424] #442# Shade #</b>#</headword>
+</headGroup>
+
+<headGroup 443 444 445 446  >
+<headword>#<b>#[425] #443# Transparency #</b>#</headword>
+<headword>#<b>#[426] #444# Opacity #</b>#</headword>
+<headword>#<b>#[426a] #445# Turbidity #</b>#</headword>
+<headword>#<b>#[427] #446# Semitransparency #</b>#</headword>
+</headGroup>
+
+<headGroup 447 448  >
+<headword>#<b>#[428] #447# Color #</b>#</headword>
+<headword>#<b>#[429] #448# Achromatism #</b>#</headword>
+</headGroup>
+
+<headGroup 449 450  >
+<headword>#<b>#[430] #449# Whiteness #</b>#</headword>
+<headword>#<b>#[431] #450# Blackness #</b>#</headword>
+</headGroup>
+
+<headGroup 451 452 453 454 455 456 457 458  >
+<headword>#<b>#[432] #451# Gray #</b>#</headword>
+<headword>#<b>#[433] #452# Brown #</b>#</headword>
+<headword>#<b>#[434] #453# Redness #</b>#</headword>
+<headword>#<b>#[435] #454# Greenness #</b>#</headword>
+<headword>#<b>#[436] #455# Yellowness #</b>#</headword>
+<headword>#<b>#[437] #456# Purple #</b>#</headword>
+<headword>#<b>#[438] #457# Blueness #</b>#</headword>
+<headword>#<b>#[439] #458# Orange #</b>#</headword>
+</headGroup>
+
+<headGroup 459  >
+<headword>#<b>#[440] #459# Variegation #</b>#</headword>
+</headGroup>
+
+<headGroup 460 461 462  >
+<headword>#<b>#[441] #460# Vision #</b>#</headword>
+<headword>#<b>#[442] #461# Blindness #</b>#</headword>
+<headword>#<b>#[443] #462# Dimsightedness #</b>#</headword>
+</headGroup>
+
+<headGroup 463 464  >
+<headword>#<b>#[444] #463# Spectator #</b>#</headword>
+<headword>#<b>#[445] #464# Optical Instruments #</b>#</headword>
+</headGroup>
+
+<headGroup 465 466  >
+<headword>#<b>#[446] #465# Visibility #</b>#</headword>
+<headword>#<b>#[447] #466# Invisibility #</b>#</headword>
+</headGroup>
+
+<headGroup 467 468  >
+<headword>#<b>#[448] #467# Appearance #</b>#</headword>
+<headword>#<b>#[449] #468# Disappearance #</b>#</headword>
+</headGroup>
+
+</section>
+
+</class>
+
+
+
+<classNumber>#<i>#Class 4 #</i>#</classNumber>
+<classTitle>#<i>#WORDS RELATING TO THE INTELLECTUAL FACULTIES #</i>#</classTitle>
+
+<sectionNumber>#Section 16 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#OPERATIONS OF INTELLECT IN GENERAL #</b>#</size>#</sectionTitle>
+
+<headGroup 469 470  >
+<headword>#<b>#[450] #469# Intellect #</b>#</headword>
+<headword>#<b>#[450a] #470# Absence or want of Intellect #</b>#</headword>
+</headGroup>
+
+<headGroup 471 472  >
+<headword>#<b>#[451] #471# Thought #</b>#</headword>
+<headword>#<b>#[452] #472# Incogitancy #</b>#</headword>
+</headGroup>
+
+<headGroup 473  >
+<headword>#<b>#[453] #473# Idea #</b>#</headword>
+</headGroup>
+
+<headGroup 474  >
+<headword>#<b>#[454] #474# Topic #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 17 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#PRECURSORY CONDITIONS AND OPERATIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 475 476  >
+<headword>#<b>#[455] #475# Curiosity #</b>#</headword>
+<headword>#<b>#[456] #476# Incuriosity #</b>#</headword>
+</headGroup>
+
+<headGroup 477 478 >
+<headword>#<b>#[457] #477# Attention #</b>#</headword>
+<headword>#<b>#[458] #478# Inattention #</b>#</headword>
+</headGroup>
+
+<headGroup 479 480  >
+<headword>#<b>#[459] #479# Care #</b>#</headword>
+<headword>#<b>#[460] #480# Neglect #</b>#</headword>
+</headGroup>
+
+<headGroup 481 482  >
+<headword>#<b>#[461] #481# Inquiry #</b>#</headword>
+<headword>#<b>#[462] #482# Answer #</b>#</headword>
+</headGroup>
+
+<headGroup 483  >
+<headword>#<b>#[463] #483# Experiment #</b>#</headword>
+</headGroup>
+
+<headGroup 484 485  >
+<headword>#<b>#[464] #484# Comparison #</b>#</headword>
+<headword>#<b>#[464a] #485# Incomparability #</b>#</headword>
+</headGroup>
+
+<headGroup 486 487  >
+<headword>#<b>#[465] #486# Discrimination #</b>#</headword>
+<headword>#<b>#[465a] #487# Indiscrimination #</b>#</headword>
+</headGroup>
+
+<headGroup 488  >
+<headword>#<b>#[465b] #488# Identification #</b>#</headword>
+</headGroup>
+
+<headGroup 489  >
+<headword>#<b>#[466] #489# Measurement #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 18 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MATERIALS FOR REASONING #</b>#</size>#</sectionTitle>
+
+<headGroup 490 491  >
+<headword>#<b>#[467] #490# Evidence #</b>#</headword>
+<headword>#<b>#[468] #491# Counter Evidence #</b>#</headword>
+</headGroup>
+
+<headGroup 492  >
+<headword>#<b>#[469] #492# Qualification #</b>#</headword>
+</headGroup>
+
+<headGroup 493  494 >
+<headword>#<b>#[470] #493# Possibility #</b>#</headword>
+<headword>#<b>#[471] #494# Impossibility #</b>#</headword>
+</headGroup>
+
+<headGroup 495 496 >
+<headword>#<b>#[472] #495# Probability #</b>#</headword>
+<headword>#<b>#[473] #496# Improbability #</b>#</headword>
+</headGroup>
+
+<headGroup 497 498  >
+<headword>#<b>#[474] #497# Certainty #</b>#</headword>
+<headword>#<b>#[475] #498# Uncertainty #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 19 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#REASONING PROCESSES #</b>#</size>#</sectionTitle>
+
+<headword>#<b>#[476] #499# Reasoning, #</b>#</headword>
+</headGroup>
+
+<headGroup 500  >
+<headword>#<b>#[477] #500# Sophistry #</b>#</headword>
+</headGroup>
+
+<headGroup 501  >
+<headword>#<b>#[478] #501# Demonstration #</b>#</headword>
+</headGroup>
+
+<headGroup 502  >
+<headword>#<b>#[479] #502# Confutation #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 20 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#RESULTS OF REASONING #</b>#</size>#</sectionTitle>
+
+<headGroup 505 504 505   >
+<headword>#<b>#[480] #503# Judgment #</b>#</headword>
+<headword>#<b>#[480a] #504# Discovery #</b>#</headword>
+<headword>#<b>#[481] #505# Misjudgment #</b>#</headword>
+</headGroup>
+
+<headGroup 506 507  >
+<headword>#<b>#[482] #506# Overestimation #</b>#</headword>
+<headword>#<b>#[483] #507# Underestimation #</b>#</headword>
+</headGroup>
+
+<headGroup 508 509  >
+<headword>#<b>#[484] #508# Belief #</b>#</headword>
+<headword>#<b>#[485] #509# Doubt #</b>#</headword>
+</headGroup>
+
+<headGroup 510 511  >
+<headword>#<b>#[486] #510# Credulity #</b>#</headword>
+<headword>#<b>#[487] #511# Incredulity #</b>#</headword>
+</headGroup>
+
+<headGroup 512 513  >
+<headword>#<b>#[488] #512# Assent #</b>#</headword>
+<headword>#<b>#[489] #513# Dissent #</b>#</headword>
+</headGroup>
+
+<headGroup 514 515  >
+<headword>#<b>#[490] #514# Knowledge #</b>#</headword>
+<headword>#<b>#[491] #515# Ignorance #</b>#</headword>
+</headGroup>
+
+<headGroup 516 517  >
+<headword>#<b>#[492] #516# Scholar #</b>#</headword>
+<headword>#<b>#[493] #517# Ignoramus #</b>#</headword>
+</headGroup>
+
+<headGroup 518 519  >
+<headword>#<b>#[494] #518# Truth #</b>#</headword>
+<headword>#<b>#[495] #519# Error #</b>#</headword>
+</headGroup>
+
+<headGroup 520 521  >
+<headword>#<b>#[496] #520# Maxim #</b>#</headword>
+<headword>#<b>#[497] #521# Absurdity #</b>#</headword>
+</headGroup>
+
+<headGroup 522 523  >
+<headword>#<b>#[498] #522# Wisdom #</b>#</headword>
+<headword>#<b>#[499] #523# Folly #</b>#</headword>
+</headGroup>
+
+<headGroup 524 525  >
+<headword>#<b>#[500] #524# Sage #</b>#</headword>
+<headword>#<b>#[501] #525# Fool #</b>#</headword>
+</headGroup>
+
+<headGroup 526 527  >
+<headword>#<b>#[502] #526# Sanity #</b>#</headword>
+<headword>#<b>#[503] #527# Insanity #</b>#</headword>
+</headGroup>
+
+<headGroup 528 >
+<headword>#<b>#[504] #528# Madman #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 21 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#EXTENSION OF THOUGHT #</b>#</size>#</sectionTitle>
+
+<headGroup 529 530  >
+<headword>#<b>#[505] #529# Memory #</b>#</headword>
+<headword>#<b>#[506] #530# Oblivion #</b>#</headword>
+</headGroup>
+
+<headGroup 531 532  >
+<headword>#<b>#[507] #531# Expectation #</b>#</headword>
+<headword>#<b>#[508] #532# Inexpectation #</b>#</headword>
+</headGroup>
+
+<headGroup 533  >
+<headword>#<b>#[509] #533# Disappointment #</b>#</headword>
+</headGroup>
+
+<headGroup 534  >
+<headword>#<b>#[510] #534# Foresight #</b>#</headword>
+</headGroup>
+
+<headGroup 535  >
+<headword>#<b>#[511] #535# Prediction #</b>#</headword>
+</headGroup>
+
+<headGroup 536  >
+<headword>#<b>#[512] #536# Omen #</b>#</headword>
+</headGroup>
+
+<headGroup 537  >
+<headword>#<b>#[513] #537# Oracle #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 22 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#CREATIVE THOUGHT #</b>#</size>#</sectionTitle>
+
+<headGroup 538  >
+<headword>#<b>#[514] #538# Supposition #</b>#</headword>
+</headGroup>
+
+<headGroup 539  >
+<headword>#<b>#[514a] #539# Analogy #</b>#</headword>
+</headGroup>
+
+<headGroup 540  >
+<headword>#<b>#[515] #540# Imagination #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 23 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#NATURE OF IDEAS COMMUNICATED #</b>#</size>#</sectionTitle>
+
+<headGroup 541 542  >
+<headword>#<b>#[516] #541# Meaning #</b>#</headword>
+<headword>#<b>#[517] #542# Unmeaningness #</b>#</headword>
+</headGroup>
+
+<headGroup 543 544 545  >
+<headword>#<b>#[518] #543# Intelligibility #</b>#</headword>
+<headword>#<b>#[519] #544# Unintelligibility #</b>#</headword>
+<headword>#<b>#[520] #545# Equivocalness #</b>#</headword>
+</headGroup>
+
+<headGroup 546  >
+<headword>#<b>#[521] #546# Metaphor #</b>#</headword>
+</headGroup>
+
+<headGroup 547 548  >
+<headword>#<b>#[522] #547# Interpretation #</b>#</headword>
+<headword>#<b>#[523] #548# Misinterpretation #</b>#</headword>
+</headGroup>
+
+<headGroup 549  >
+<headword>#<b>#[524] #549# Interpreter #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 24 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MODES OF COMMUNICATION #</b>#</size>#</sectionTitle>
+
+<headGroup 550 >
+<headword>#<b>#[525] #550# Manifestation #</b>#</headword>
+</headGroup>
+
+<headGroup 551  >
+<headword>#<b>#[526] #551# Implication #</b>#</headword>
+</headGroup>
+
+<headGroup 552  >
+<headword>#<b>#[527] #552# Information #</b>#</headword>
+</headGroup>
+
+<headGroup 553  >
+<headword>#<b>#[527a] #553# Correction #</b>#</headword>
+</headGroup>
+
+<headGroup 554 555  >
+<headword>#<b>#[528] #554# Concealment #</b>#</headword>
+<headword>#<b>#[529] #555# Disclosure #</b>#</headword>
+</headGroup>
+
+<headGroup 556  >
+<headword>#<b>#[530] #556# Ambush #</b>#</headword>
+</headGroup>
+
+<headGroup 557  >
+<headword>#<b>#[531] #557# Publication #</b>#</headword>
+</headGroup>
+
+<headGroup 558 559  >
+<headword>#<b>#[532] #558# News #</b>#</headword>
+<headword>#<b>#[533] #559# Secret #</b>#</headword>
+</headGroup>
+
+<headGroup 560  >
+<headword>#<b>#[534] #560# Messenger #</b>#</headword>
+</headGroup>
+
+<headGroup 561 562
+<headword>#<b>#[535] #561# Affirmation #</b>#</headword>
+<headword>#<b>#[536] #562# Negation #</b>#</headword>
+</headGroup>
+
+<headGroup 563 564  >
+<headword>#<b>#[537] #563# Teaching #</b>#</headword>
+<headword>#<b>#[538] #564# Misteaching #</b>#</headword>
+</headGroup>
+
+<headGroup 565  >
+<headword>#<b>#[539] #565# Learning #</b>#</headword>
+</headGroup>
+
+<headGroup 566 567 568 >
+<headword>#<b>#[540] #566# Teacher #</b>#</headword>
+<headword>#<b>#[541] #567# Learner #</b>#</headword>
+<headword>#<b>#[542] #568# School #</b>#</headword>
+</headGroup>
+
+<headGroup 569 570  >
+<headword>#<b>#[543] #569# Veracity #</b>#</headword>
+<headword>#<b>#[544] #570# Falsehood #</b>#</headword>
+</headGroup>
+
+<headGroup 571  >
+<headword>#<b>#[545] #571# Deception #</b>#</headword>
+</headGroup>
+
+<headGroup 570  >
+<headword>#<b>#[546] #572# Untruth #</b>#</headword>
+</headGroup>
+
+<headGroup 573 574  >
+<headword>#<b>#[547] #573# Dupe #</b>#</headword>
+<headword>#<b>#[548] #574# Deceiver #</b>#</headword>
+</headGroup>
+
+<headGroup 575  >
+<headword>#<b>#[549] #575# Exaggeration #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 25 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MEANS OF COMMUNICATING IDEAS #</b>#</size>#</sectionTitle>
+
+<headGroup 576  >
+<headword>#<b>#[550] #576# Indication #</b>#</headword>
+</headGroup>
+
+<headGroup 577  >
+<headword>#<b>#[551] #577# Record #</b>#</headword>
+</headGroup>
+
+<headGroup 578 579  >
+<headword>#<b>#[552] #578# Obliteration #</b>#</headword>
+<headword>#<b>#[553] #579# Recorder #</b>#</headword>
+</headGroup>
+
+<headGroup 580 581 >
+<headword>#<b>#[554] #580# Representation #</b>#</headword>
+<headword>#<b>#[555] #581# Misrepresentation #</b>#</headword>
+</headGroup>
+
+<headGroup 582  >
+<headword>#<b>#[556] #582# Painting #</b>#</headword>
+</headGroup>
+
+<headGroup 583  >
+<headword>#<b>#[557] #583# Sculpture #</b>#</headword>
+</headGroup>
+
+<headGroup 584  >
+<headword>#<b>#[558] #584# Engraving #</b>#</headword>
+</headGroup>
+
+<headGroup 585  >
+<headword>#<b>#[559] #585# Artist #</b>#</headword>
+</headGroup>
+
+<headGroup 586  >
+<headword>#<b>#[560] #586# Language #</b>#</headword>
+</headGroup>
+
+<headGroup 587  >
+<headword>#<b>#[561] #587# Letter #</b>#</headword>
+</headGroup>
+
+<headGroup 588 589  >
+<headword>#<b>#[562] #588# Word #</b>#</headword>
+<headword>#<b>#[563] #589# Neologism #</b>#</headword>
+</headGroup>
+
+<headGroup 590 591  >
+<headword>#<b>#[564] #590# Nomenclature #</b>#</headword>
+<headword>#<b>#[565] #591# Misnomer #</b>#</headword>
+</headGroup>
+
+<headGroup 592  >
+<headword>#<b>#[566] #592# Phrase #</b>#</headword>
+</headGroup>
+
+<headGroup 593 594  >
+<headword>#<b>#[567] #593# Grammar #</b>#</headword>
+<headword>#<b>#[568] #594# Solecism #</b>#</headword>
+</headGroup>
+
+<headGroup 595  >
+<headword>#<b>#[569] #595# Style #</b>#</headword>
+</headGroup>
+
+<headGroup 596 597  >
+<headword>#<b>#[570] #596# Perspicuity #</b>#</headword>
+<headword>#<b>#[571] #597# Obscurity #</b>#</headword>
+</headGroup>
+
+<headGroup 598 599 >
+<headword>#<b>#[572] #598# Conciseness #</b>#</headword>
+<headword>#<b>#[573] #599# Diffuseness #</b>#</headword>
+</headGroup>
+
+<headGroup 600 601  >
+<headword>#<b>#[574] #600# Vigor #</b>#</headword>
+<headword>#<b>#[575] #601# Feebleness #</b>#</headword>
+</headGroup>
+
+<headGroup 602 603  >
+<headword>#<b>#[576] #602# Plainness #</b>#</headword>
+<headword>#<b>#[577] #603# Ornament #</b>#</headword>
+</headGroup>
+
+<headGroup 604 605  >
+<headword>#<b>#[578] #604# Elegance #</b>#</headword>
+<headword>#<b>#[579] #605# Inelegance #</b>#</headword>
+</headGroup>
+
+<headGroup 606  >
+<headword>#<b>#[580] #606# Voice #</b>#</headword>
+</headGroup>
+
+<headGroup 607  >
+<headword>#<b>#[581] #607# Aphony #</b>#</headword>
+</headGroup>
+
+<headGroup 608  >
+<headword>#<b>#[582] #608# Speech #</b>#</headword>
+</headGroup>
+
+<headGroup 609  >
+<headword>#<b>#[583] #609# Stammering #</b>#</headword>
+</headGroup>
+
+<headGroup 610 611  >
+<headword>#<b>#[584] #610# Loquacity #</b>#</headword>
+<headword>#<b>#[585] #611# Taciturnity #</b>#</headword>
+</headGroup>
+
+<headGroup 612  >
+<headword>#<b>#[586] #612# Allocution #</b>#</headword>
+</headGroup>
+
+<headGroup 613 614  >
+<headword>#<b>#[587] #613# Response #</b>#</headword>
+<headword>#<b>#[588] #614# Conversation #</b>#</headword>
+</headGroup>
+
+<headGroup 615  >
+<headword>#<b>#[589] #615# Soliloquy #</b>#</headword>
+</headGroup>
+
+<headGroup 616  >
+<headword>#<b>#[590] #616# Writing #</b>#</headword>
+</headGroup>
+
+<headGroup 617  >
+<headword>#<b>#[591] #617# Printing #</b>#</headword>
+</headGroup>
+
+<headGroup 618  >
+<headword>#<b>#[592] #618# Correspondence #</b>#</headword>
+</headGroup>
+
+<headGroup 619  >
+<headword>#<b>#[593] #619# Book #</b>#</headword>
+</headGroup>
+
+<headGroup 620  >
+<headword>#<b>#[594] #620# Description #</b>#</headword>
+</headGroup>
+
+<headGroup 621  >
+<headword>#<b>#[595] #621# Dissertation #</b>#</headword>
+</headGroup>
+
+<headGroup 622  >
+<headword>#<b>#[596] #622# Compendium #</b>#</headword>
+</headGroup>
+
+<headGroup 623  >
+<headword>#<b>#[597] #623# Poetry #</b>#</headword>
+</headGroup>
+
+<headGroup 624  >
+<headword>#<b>#[598] #624# Prose #</b>#</headword>
+</headGroup>
+
+<headGroup 625  >
+<headword>#<b>#[599] #625# The Drama #</b>#</headword>
+</headGroup>
+
+</section>
+
+</class>
+
+<classNumber>#<i>#Class 5 #</i>#</classNumber>
+<classTitle>#<i>#WORDS RELATING TO THE VOLUNTARY POWERS #</i>#</classTitle>
+
+<sectionNumber>#Section 26 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#VOLITION IN GENERAL #</b>#</size>#</sectionTitle>
+
+<headGroup 626 627  >
+<headword>#<b>#[600] #626# Will #</b>#</headword>
+<headword>#<b>#[601] #627# Necessity #</b>#</headword>
+</headGroup>
+
+<headGroup 628 629  >
+<headword>#<b>#[602] #628# Willingness #</b>#</headword>
+<headword>#<b>#[603] #629# Unwillingness #</b>#</headword>
+</headGroup>
+
+<headGroup 630 631 632  >
+<headword>#<b>#[604] #630# Resolution #</b>#</headword>
+<headword>#<b>#[604a] #631# Perseverance #</b>#</headword>
+<headword>#<b>#[605] #632# Irresolution #</b>#</headword>
+</headGroup>
+
+<headGroup 633 634  >
+<headword>#<b>#[606] #633# Obstinacy #</b>#</headword>
+<headword>#<b>#[607] #634# Tergiversation #</b>#</headword>
+</headGroup>
+
+<headGroup 635  >
+<headword>#<b>#[608] #635# Caprice #</b>#</headword>
+</headGroup>
+
+<headGroup 636 637  >
+<headword>#<b>#[609] #636# Choice #</b>#</headword>
+<headword>#<b>#[609a] #637# Absence of Choice #</b>#</headword>
+</headGroup>
+
+<headGroup 638  >
+<headword>#<b>#[610] #638# Rejection #</b>#</headword>
+</headGroup>
+
+<headGroup 639 640  >
+<headword>#<b>#[611] #639# Predetermination #</b>#</headword>
+<headword>#<b>#[612] #640# Impulse #</b>#</headword>
+</headGroup>
+
+<headGroup 641 642  >
+<headword>#<b>#[613] #641# Habit #</b>#</headword>
+<headword>#<b>#[614] #642# Desuetude #</b>#</headword>
+</headGroup>
+
+<headGroup 643 644  >
+<headword>#<b>#[615] #643# Motive #</b>#</headword>
+<headword>#<b>#[615a] #644# Absence of Motive #</b>#</headword>
+</headGroup>
+
+<headGroup 645  >
+<headword>#<b>#[616] #645# Dissuasion #</b>#</headword>
+</headGroup>
+
+<headGroup 646  >
+<headword>#<b>#[617] #646# Pretext #</b>#</headword>
+</headGroup>
+
+<headGroup 647 648  >
+<headword>#<b>#[618] #647# Good #</b>#</headword>
+<headword>#<b>#[619] #648# Evil #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 27 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#PROSPECTIVE VOLITION #</b>#</size>#</sectionTitle>
+
+<headGroup 649  >
+<headword>#<b>#[620] #649# Intention #</b>#</headword>
+</headGroup>
+
+<headGroup 650  >
+<headword>#<b>#[621] #650# Chance #</b>#</headword>
+</headGroup>
+
+<headGroup 651 652  >
+<headword>#<b>#[622] #651# Pursuit #</b>#</headword>
+<headword>#<b>#[623] #652# Avoidance #</b>#</headword>
+</headGroup>
+
+<headGroup 653  >
+<headword>#<b>#[624] #653# Relinquishment #</b>#</headword>
+</headGroup>
+
+<headGroup 654  >
+<headword>#<b>#[625] #654# Business #</b>#</headword>
+</headGroup>
+
+<headGroup 655  >
+<headword>#<b>#[626] #655# Plan #</b>#</headword>
+</headGroup>
+
+<headGroup 656  >
+<headword>#<b>#[627] #656# Method #</b>#</headword>
+<headword>#<b>#[628] #657# Mid-course #</b>#</headword>
+</headGroup>
+
+<headword>#<b>#[629] #658# Circuit #</b>#</headword>
+<headGroup 659 660  >
+<headword>#<b>#[630] #659# Requirement #</b>#</headword>
+<headword>#<b>#[631] #660# Instrumentality #</b>#</headword>
+</headGroup>
+
+<headGroup 661  >
+<headword>#<b>#[632] #661# Means #</b>#</headword>
+</headGroup>
+
+<headGroup 662  >
+<headword>#<b>#[633] #662# Instrument #</b>#</headword>
+</headGroup>
+
+<headGroup 663  >
+<headword>#<b>#[634] #663# Substitute #</b>#</headword>
+</headGroup>
+
+<headGroup 664  >
+<headword>#<b>#[635] #664# Materials #</b>#</headword>
+</headGroup>
+
+<headGroup 665  >
+<headword>#<b>#[636] #665# Store #</b>#</headword>
+</headGroup>
+
+<headGroup 666  >
+<headword>#<b>#[637] #666# Provision #</b>#</headword>
+</headGroup>
+
+<headGroup 667  >
+<headword>#<b>#[638] #667# Waste #</b>#</headword>
+</headGroup>
+
+<headGroup 668 669  >
+<headword>#<b>#[639] #668# Sufficiency #</b>#</headword>
+<headword>#<b>#[640] #669# Insufficiency #</b>#</headword>
+</headGroup>
+
+<headGroup 670  >
+<headword>#<b>#[641] #670# Redundancy #</b>#</headword>
+</headGroup>
+
+<headGroup 671 672  >
+<headword>#<b>#[642] #671# Importance #</b>#</headword>
+<headword>#<b>#[643] #672# Unimportance #</b>#</headword>
+</headGroup>
+
+<headGroup 673 674  >
+<headword>#<b>#[644] #673# Utility #</b>#</headword>
+<headword>#<b>#[645] #674# Inutility #</b>#</headword>
+</headGroup>
+
+<headGroup 675 676  >
+<headword>#<b>#[646] #675# Expedience #</b>#</headword>
+<headword>#<b>#[647] #676# Inexpedience #</b>#</headword>
+</headGroup>
+
+<headGroup 677 678  >
+<headword>#<b>#[648] #677# Goodness #</b>#</headword>
+<headword>#<b>#[649] #678# Badness #</b>#</headword>
+</headGroup>
+
+<headGroup 679 680  >
+<headword>#<b>#[650] #679# Perfection #</b>#</headword>
+<headword>#<b>#[651] #680# Imperfection #</b>#</headword>
+</headGroup>
+
+<headGroup 681 682  >
+<headword>#<b>#[652] #681# Cleanness #</b>#</headword>
+<headword>#<b>#[653] #682# Uncleanness #</b>#</headword>
+</headGroup>
+
+<headGroup 683 684  >
+<headword>#<b>#[654] #683# Health #</b>#</headword>
+<headword>#<b>#[655] #684# Disease #</b>#</headword>
+</headGroup>
+
+<headGroup 685 686 >
+<headword>#<b>#[656] #685# Salubrity #</b>#</headword>
+<headword>#<b>#[657] #686# Insalubrity #</b>#</headword>
+</headGroup>
+
+<headGroup 687 688  >
+<headword>#<b>#[658] #687# Improvement #</b>#</headword>
+<headword>#<b>#[659] #688# Deterioration #</b>#</headword>
+</headGroup>
+
+<headGroup 689 690  >
+<headword>#<b>#[660] #689# Restoration #</b>#</headword>
+<headword>#<b>#[661] #690# Relapse #</b>#</headword>
+</headGroup>
+
+<headGroup 691 692 >
+<headword>#<b>#[662] #691# Remedy #</b>#</headword>
+<headword>#<b>#[663] #692# Bane #</b>#</headword>
+</headGroup>
+
+<headGroup 693 694  >
+<headword>#<b>#[664] #693# Safety #</b>#</headword>
+<headword>#<b>#[665] #694# Danger #</b>#</headword>
+</headGroup>
+
+<headGroup 695 696  >
+<headword>#<b>#[666] #695# Refuge #</b>#</headword>
+<headword>#<b>#[667] #696# Pitfall #</b>#</headword>
+</headGroup>
+
+<headGroup 697 698  >
+<headword>#<b>#[668] #697# Warning #</b>#</headword>
+<headword>#<b>#[669] #698# Alarm #</b>#</headword>
+</headGroup>
+
+<headGroup 699  >
+<headword>#<b>#[670] #699# Preservation #</b>#</headword>
+</headGroup>
+
+<headGroup 700  >
+<headword>#<b>#[671] #700# Escape #</b>#</headword>
+</headGroup>
+
+<headGroup 701  >
+<headword>#<b>#[672] #701# Deliverance #</b>#</headword>
+</headGroup>
+
+<headGroup 702 703  >
+<headword>#<b>#[673] #702# Preparation #</b>#</headword>
+<headword>#<b>#[674] #703# Nonpreparation #</b>#</headword>
+</headGroup>
+
+<headGroup 704  >
+<headword>#<b>#[675] #704# Essay #</b>#</headword>
+</headGroup>
+
+<headGroup 705  >
+<headword>#<b>#[676] #705# Undertaking #</b>#</headword>
+</headGroup>
+
+<headGroup 706 707 708  >
+<headword>#<b>#[677] #706# Use #</b>#</headword>
+<headword>#<b>#[678] #707# Disuse #</b>#</headword>
+</headGroup>
+
+<headGroup 708  >
+<headword>#<b>#[679] #708# Misuse #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 28 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#VOLUNTARY ACTION #</b>#</size>#</sectionTitle>
+
+<headGroup 709 710  >
+<headword>#<b>#[680] #709# Action #</b>#</headword>
+<headword>#<b>#[681] #710# Inaction #</b>#</headword>
+</headGroup>
+
+<headGroup 711 712  >
+<headword>#<b>#[682] #711# Activity #</b>#</headword>
+<headword>#<b>#[683] #712# Inactivity #</b>#</headword>
+</headGroup>
+
+<headGroup 713 714  >
+<headword>#<b>#[684] #713# Haste #</b>#</headword>
+<headword>#<b>#[685] #714# Leisure #</b>#</headword>
+</headGroup>
+
+<headGroup 715 716  >
+<headword>#<b>#[686] #715# Exertion #</b>#</headword>
+<headword>#<b>#[687] #716# Repose #</b>#</headword>
+</headGroup>
+
+<headGroup 717 718  >
+<headword>#<b>#[688] #717# Fatigue #</b>#</headword>
+<headword>#<b>#[689] #718# Refreshment #</b>#</headword>
+</headGroup>
+
+<headGroup 719  >
+<headword>#<b>#[690] #719# Agent #</b>#</headword>
+</headGroup>
+
+<headGroup 720  >
+<headword>#<b>#[691] #720# Workshop #</b>#</headword>
+</headGroup>
+
+<headGroup 721  >
+<headword>#<b>#[692] #721# Conduct #</b>#</headword>
+</headGroup>
+
+<headGroup 722  >
+<headword>#<b>#[693] #722# Direction #</b>#</headword>
+</headGroup>
+
+<headGroup 723  >
+<headword>#<b>#[694] #723# Director #</b>#</headword>
+</headGroup>
+
+<headGroup 724  >
+<headword>#<b>#[695] #724# Advice #</b>#</headword>
+</headGroup>
+
+<headGroup 725  >
+<headword>#<b>#[696] #725# Council #</b>#</headword>
+</headGroup>
+
+<headGroup 726  >
+<headword>#<b>#[697] #726# Precept #</b>#</headword>
+</headGroup>
+
+<headGroup 727 728  >
+<headword>#<b>#[698] #727# Skill #</b>#</headword>
+<headword>#<b>#[699] #728# Unskillfulness #</b>#</headword>
+</headGroup>
+
+<headGroup 729 730  >
+<headword>#<b>#[700] #729# Proficient #</b>#</headword>
+<headword>#<b>#[701] #730# Bungler #</b>#</headword>
+</headGroup>
+
+<headGroup 731 732  >
+<headword>#<b>#[702] #731# Cunning #</b>#</headword>
+<headword>#<b>#[703] #732# Artlessness #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 29 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#ANTAGONISM #</b>#</size>#</sectionTitle>
+
+
+<headGroup 733 734  >
+<headword>#<b>#[704] #733# Difficulty #</b>#</headword>
+<headword>#<b>#[705] #734# Facility #</b>#</headword>
+</headGroup>
+
+<headGroup 735 736  >
+<headword>#<b>#[706] #735# Hindrance #</b>#</headword>
+<headword>#<b>#[707] #736# Aid #</b>#</headword>
+</headGroup>
+
+<headGroup 737 738  >
+<headword>#<b>#[708] #737# Opposition #</b>#</headword>
+<headword>#<b>#[709] #738# Cooperation #</b>#</headword>
+</headGroup>
+
+<headGroup 739 740  >
+<headword>#<b>#[710] #739# Opponent #</b>#</headword>
+<headword>#<b>#[711] #740# Auxiliary #</b>#</headword>
+</headGroup>
+
+<headGroup 741  >
+<headword>#<b>#[712] #741# Party #</b>#</headword>
+</headGroup>
+
+<headGroup 742 743  >
+<headword>#<b>#[713] #742# Discord #</b>#</headword>
+<headword>#<b>#[714] #743# Concord #</b>#</headword>
+</headGroup>
+
+<headGroup 744  >
+<headword>#<b>#[715] #744# Defiance #</b>#</headword>
+</headGroup>
+
+<headGroup 745 746  >
+<headword>#<b>#[716] #745# Attack #</b>#</headword>
+<headword>#<b>#[717] #746# Defense #</b>#</headword>
+</headGroup>
+
+<headGroup 747 748  >
+<headword>#<b>#[718] #747# Retaliation #</b>#</headword>
+<headword>#<b>#[719] #748# Resistance #</b>#</headword>
+</headGroup>
+
+<headGroup 749 750  >
+<headword>#<b>#[720] #749# Contention #</b>#</headword>
+<headword>#<b>#[721] #750# Peace #</b>#</headword>
+</headGroup>
+
+<headGroup 751 752  >
+<headword>#<b>#[722] #751# Warfare #</b>#</headword>
+<headword>#<b>#[723] #752# Pacification #</b>#</headword>
+</headGroup>
+
+<headGroup 753  >
+<headword>#<b>#[724] #753# Mediation #</b>#</headword>
+</headGroup>
+
+<headGroup 754  >
+<headword>#<b>#[725] #754# Submission #</b>#</headword>
+</headGroup>
+
+<headGroup 755  >
+<headword>#<b>#[726] #755# Combatant #</b>#</headword>
+</headGroup>
+
+<headGroup 756  >
+<headword>#<b>#[727] #756# Arms #</b>#</headword>
+</headGroup>
+
+<headGroup 757  >
+<headword>#<b>#[728] #757# Arena #</b>#</headword>
+</section>
+
+<sectionNumber>#Section 30 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#RESULTS OF VOLUNTARY ACTION #</b>#</size>#</sectionTitle>
+
+<headGroup 758 759  >
+<headword>#<b>#[729] #758# Completion #</b>#</headword>
+<headword>#<b>#[730] #759# Noncompletion #</b>#</headword>
+</headGroup>
+
+<headGroup 760 761  >
+<headword>#<b>#[731] #760# Success #</b>#</headword>
+<headword>#<b>#[732] #761# Failure #</b>#</headword>
+</headGroup>
+
+<headGroup 762  >
+<headword>#<b>#[733] #762# Trophy #</b>#</headword>
+</headGroup>
+
+<headGroup 763 764  >
+<headword>#<b>#[734] #763# Prosperity #</b>#</headword>
+<headword>#<b>#[735] #764# Adversity #</b>#</headword>
+</headGroup>
+
+<headGroup 765  >
+<headword>#<b>#[736] #765# Mediocrity #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 31 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#GENERAL INTERSOCIAL VOLITION #</b>#</size>#</sectionTitle>
+
+<headGroup 766  >
+<headword>#<b>#[737] #766# Authority #</b>#</headword>
+</headGroup>
+
+<headGroup 767  >
+<headword>#<b>#[737a] #767# Government #</b>#</headword>
+</headGroup>
+
+<headGroup 768  >
+<headword>#<b>#[737b] #768# Politics #</b>#</headword>
+</headGroup>
+
+<headGroup 769  >
+<headword>#<b>#[738] #769# Laxity #</b>#</headword>
+</headGroup>
+
+<headGroup 770 771  >
+<headword>#<b>#[739] #770# Severity #</b>#</headword>
+<headword>#<b>#[740] #771# Lenity #</b>#</headword>
+</headGroup>
+
+<headGroup 772  >
+<headword>#<b>#[741] #772# Command #</b>#</headword>
+</headGroup>
+
+<headGroup 773 774  >
+<headword>#<b>#[742] #773# Disobedience #</b>#</headword>
+<headword>#<b>#[743] #774# Obedience #</b>#</headword>
+</headGroup>
+
+<headGroup 775  >
+<headword>#<b>#[744] #775# Compulsion #</b>#</headword>
+</headGroup>
+
+<headGroup 777 778  >
+<headword>#<b>#[745] #776# Master #</b>#</headword>
+<headword>#<b>#[746] #777# Servant #</b>#</headword>
+</headGroup>
+
+<headGroup 778  >
+<headword>#<b>#[747] #778# Scepter #</b>#</headword>
+</headGroup>
+
+<headGroup 779 780  >
+<headword>#<b>#[748] #779# Freedom #</b>#</headword>
+<headword>#<b>#[749] #780# Subjection #</b>#</headword>
+</headGroup>
+
+<headGroup 781 782  >
+<headword>#<b>#[750] #781# Liberation #</b>#</headword>
+<headword>#<b>#[751] #782# Restraint #</b>#</headword>
+</headGroup>
+
+<headGroup 783  >
+<headword>#<b>#[752] #783# Prison #</b>#</headword>
+</headGroup>
+
+<headGroup 784 785  >
+<headword>#<b>#[753] #784# Keeper #</b>#</headword>
+<headword>#<b>#[754] #785# Prisoner #</b>#</headword>
+</headGroup>
+
+<headGroup 786 787  >
+<headword>#<b>#[755] #786# Commission #</b>#</headword>
+<headword>#<b>#[756] #787# Abrogation #</b>#</headword>
+</headGroup>
+
+<headGroup 788  >
+<headword>#<b>#[757] #788# Resignation #</b>#</headword>
+</headGroup>
+
+<headGroup 789  >
+<headword>#<b>#[758] #789# Consignee #</b>#</headword>
+</headGroup>
+
+<headGroup 790  >
+<headword>#<b>#[759] #790# Deputy #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 32 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#SPECIAL INTERSOCIAL VOLITION #</b>#</size>#</sectionTitle>
+
+<headGroup 791 792  >
+<headword>#<b>#[760] #791# Permission #</b>#</headword>
+<headword>#<b>#[761] #792# Prohibition #</b>#</headword>
+</headGroup>
+
+<headGroup 793  >
+<headword>#<b>#[762] #793# Consent #</b>#</headword>
+</headGroup>
+
+<headGroup 794 795  >
+<headword>#<b>#[763] #794# Offer #</b>#</headword>
+<headword>#<b>#[764] #795# Refusal #</b>#</headword>
+</headGroup>
+
+<headGroup 796 797  >
+<headword>#<b>#[765] #796# Request #</b>#</headword>
+<headword>#<b>#[766] #797# Deprecation #</b>#</headword>
+</headGroup>
+
+<headGroup 798  >
+<headword>#<b>#[767] #798# Petitioner #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 33 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#CONDITIONAL INTERSOCIAL VOLITION #</b>#</size>#</sectionTitle>
+
+<headGroup 799 800 >
+<headword>#<b>#[768] #799# Promise #</b>#</headword>
+<headword>#<b>#[768a] #800# Release from engagement #</b>#</headword>
+</headGroup>
+
+<headGroup 801  >
+<headword>#<b>#[769] #801# Compact #</b>#</headword>
+</headGroup>
+
+<headGroup 802  >
+<headword>#<b>#[770] #802# Conditions #</b>#</headword>
+</headGroup>
+
+<headGroup 803  >
+<headword>#<b>#[771] #803# Security #</b>#</headword>
+</headGroup>
+
+<headGroup 804 805 806  >
+<headword>#<b>#[772] #804# Observance #</b>#</headword>
+<headword>#<b>#[773] #805# Nonobservance #</b>#</headword>
+<headword>#<b>#[774] #806# Compromise #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 34 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#POSSESSIVE RELATIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 807 808  >
+<headword>#<b>#[775] #807# Acquisition #</b>#</headword>
+<headword>#<b>#[776] #808# Loss #</b>#</headword>
+</headGroup>
+
+<headGroup 809 810  >
+<headword>#<b>#[777] #809# Possession #</b>#</headword>
+<headword>#<b>#[777a] #810# Exemption #</b>#</headword>
+</headGroup>
+
+<headGroup 811 812  >
+<headword>#<b>#[778] #811# Participation #</b>#</headword>
+</headGroup>
+
+<headGroup 812  >
+<headword>#<b>#[779] #812# Possessor #</b>#</headword>
+</headGroup>
+
+<headGroup 813  >
+<headword>#<b>#[780] #813# Property #</b>#</headword>
+</headGroup>
+
+<headGroup 814 815  >
+<headword>#<b>#[781] #814# Retention #</b>#</headword>
+<headword>#<b>#[782] #815# Relinquishment #</b>#</headword>
+</headGroup>
+
+<headGroup 816  >
+<headword>#<b>#[783] #816# Transfer #</b>#</headword>
+</headGroup>
+
+<headGroup 817 818  >
+<headword>#<b>#[784] #817# Giving #</b>#</headword>
+<headword>#<b>#[785] #818# Receiving #</b>#</headword>
+</headGroup>
+
+<headGroup 819  >
+<headword>#<b>#[786] #819# Apportionment #</b>#</headword>
+</headGroup>
+
+<headGroup 820 821  >
+<headword>#<b>#[787] #820# Lending #</b>#</headword>
+<headword>#<b>#[788] #821# Borrowing #</b>#</headword>
+</headGroup>
+
+<headGroup 821 822  >
+<headword>#<b>#[789] #822# Taking #</b>#</headword>
+</headGroup>
+
+<headGroup 823  >
+<headword>#<b>#[790] #823# Restitution #</b>#</headword>
+</headGroup>
+
+<headGroup 824 825  >
+<headword>#<b>#[791] #824# Stealing #</b>#</headword>
+<headword>#<b>#[792] #825# Thief #</b>#</headword>
+</headGroup>
+
+<headGroup 826 827  >
+<headword>#<b>#[793] #826# Booty #</b>#</headword>
+<headword>#<b>#[794] #827# Barter #</b>#</headword>
+</headGroup>
+
+<headGroup 828  >
+<headword>#<b>#[795] #828# Purchase #</b>#</headword>
+</headGroup>
+
+<headGroup 829 830  >
+<headword>#<b>#[796] #829# Sale #</b>#</headword>
+<headword>#<b>#[797] #830# Merchant #</b>#</headword>
+</headGroup>
+
+<headGroup 831  >
+<headword>#<b>#[798] #831# Merchandise #</b>#</headword>
+</headGroup>
+
+<headGroup 832  >
+<headword>#<b>#[799] #832# Mart #</b>#</headword>
+</headGroup>
+
+<headword>#<b>#[799a] #833# Stock Market #</b>#</headword>
+<headword>#<b>#[799b] #834# Securities #</b>#</headword>
+<headGroup 835  >
+<headword>#<b>#[800] #835# Money #</b>#</headword>
+</headGroup>
+
+<headGroup 836 837 838  >
+<headword>#<b>#[801] #836# Treasurer #</b>#</headword>
+<headword>#<b>#[802] #837# Treasury #</b>#</headword>
+<headword>#<b>#[803] #838# Wealth #</b>#</headword>
+</headGroup>
+
+<headword>#<b>#[804] #839# Poverty #</b>#</headword>
+<headword>#<b>#[805] #840# Credit #</b>#</headword>
+<headGroup 841  >
+<headword>#<b>#[806] #841# Debt #</b>#</headword>
+</headGroup>
+
+<headGroup 842  >
+<headword>#<b>#[807] #842# Payment #</b>#</headword>
+</headGroup>
+
+<headGroup 843  >
+<headword>#<b>#[808] #843# Nonpayment #</b>#</headword>
+</headGroup>
+
+<headGroup 844  >
+<headword>#<b>#[809] #844# Expenditure #</b>#</headword>
+</headGroup>
+
+<headGroup 845  >
+<headword>#<b>#[810] #845# Receipt #</b>#</headword>
+</headGroup>
+
+<headGroup 846 847  >
+<headword>#<b>#[811] #846# Accounts #</b>#</headword>
+<headword>#<b>#[812] #847# Price #</b>#</headword>
+</headGroup>
+
+<headword>#<b>#[812a] #848# Value #</b>#</headword>
+<headword>#<b>#[812b] #849# Worthlessness #</b>#</headword>
+<headGroup 850  >
+<headword>#<b>#[813] #850# Discount #</b>#</headword>
+</headGroup>
+
+<headGroup 851 852  >
+<headword>#<b>#[814] #851# Dearness #</b>#</headword>
+<headword>#<b>#[815] #852# Cheapness #</b>#</headword>
+</headGroup>
+
+<headGroup 853 854 >
+<headword>#<b>#[816] #853# Liberality #</b>#</headword>
+<headword>#<b>#[817] #854# Economy #</b>#</headword>
+</headGroup>
+
+<headGroup 855  >
+<headword>#<b>#[817a] #855# Greed #</b>#</headword>
+</headGroup>
+
+<headGroup 856 857  >
+<headword>#<b>#[818] #856# Prodigality #</b>#</headword>
+<headword>#<b>#[819] #857# Parsimony #</b>#</headword>
+</headGroup>
+
+</class>
+
+</section>
+
+
+<classNumber>#<i>#Class 6 #</i>#</classNumber>
+<classTitle>#<i>#WORDS RELATING TO THE SENTIENT AND MORAL POWERS #</i>#</classTitle>
+
+<sectionNumber>#Section 35 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#AFFECTIONS IN GENERAL #</b>#</size>#</sectionTitle>
+
+<headGroup 858  >
+<headword>#<b>#[820] #858# Affections #</b>#</headword>
+</headGroup>
+
+<headGroup 859  >
+<headword>#<b>#[821] #859# Feeling #</b>#</headword>
+</headGroup>
+
+<headGroup 860 861 >
+<headword>#<b>#[822] #860# Sensibility #</b>#</headword>
+<headword>#<b>#[823] #861# Insensibility #</b>#</headword>
+</headGroup>
+
+<headGroup 862  >
+<headword>#<b>#[824] #862# Excitation #</b>#</headword>
+</headGroup>
+
+<headGroup 863 864  >
+<headword>#<b>#[825] #863# Excitability #</b>#</headword>
+<headword>#<b>#[826] #864# Inexcitability #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 36 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#PERSONAL AFFECTIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 865 866  >
+<headword>#<b>#[827] #865# Pleasure #</b>#</headword>
+<headword>#<b>#[828] #866# Pain #</b>#</headword>
+</headGroup>
+
+<headGroup 867 868  >
+<headword>#<b>#[829] #867# Pleasurableness #</b>#</headword>
+<headword>#<b>#[830] #868# Painfulness #</b>#</headword>
+
+<headGroup 869 870  >
+<headword>#<b>#[831] #869# Content #</b>#</headword>
+<headword>#<b>#[832] #870# Discontent #</b>#</headword>
+</headGroup>
+
+<headGroup 871  >
+<headword>#<b>#[833] #871# Regret #</b>#</headword>
+</headGroup>
+
+<headGroup 872 873  >
+<headword>#<b>#[834] #872# Relief #</b>#</headword>
+<headword>#<b>#[835] #873# Aggravation #</b>#</headword>
+</headGroup>
+
+<headGroup 874 875  >
+<headword>#<b>#[836] #874# Cheerfulness #</b>#</headword>
+<headword>#<b>#[837] #875# Dejection #</b>#</headword>
+</headGroup>
+
+<headGroup 876 877  >
+<headword>#<b>#[838] #876# Rejoicing #</b>#</headword>
+<headword>#<b>#[839] #877# Lamentation #</b>#</headword>
+</headGroup>
+
+<headGroup 878 879  >
+<headword>#<b>#[840] #878# Amusement #</b>#</headword>
+<headword>#<b>#[841] #879# Weariness #</b>#</headword>
+</headGroup>
+
+<headGroup 880 881  >
+<headword>#<b>#[842] #880# Wit #</b>#</headword>
+<headword>#<b>#[843] #881# Dullness #</b>#</headword>
+</headGroup>
+
+<headGroup 882 >
+<headword>#<b>#[844] #882# Humorist #</b>#</headword>
+</headGroup>
+
+<headGroup 883 884  >
+<headword>#<b>#[845] #883# Beauty #</b>#</headword>
+<headword>#<b>#[846] #884# Ugliness #</b>#</headword>
+</headGroup>
+
+<headGroup 885 886 887  >
+<headword>#<b>#[847] #885# Ornament #</b>#</headword>
+<headword>#<b>#[847a] #886# Jewelry #</b>#</headword>
+<headword>#<b>#[848] #887# Blemish #</b>#</headword>
+</headGroup>
+
+<headGroup 888  >
+<headword>#<b>#[849] #888# Simplicity #</b>#</headword>
+</headGroup>
+
+<headGroup 889 890  >
+<headword>#<b>#[850] #889# Taste #</b>#</headword>
+<headword>#<b>#[851] #890# Vulgarity #</b>#</headword>
+</headGroup>
+
+<headGroup 891 892  >
+<headword>#<b>#[852] #891# Fashion #</b>#</headword>
+<headword>#<b>#[853] #892# Ridiculousness #</b>#</headword>
+</headGroup>
+
+<headGroup 893  >
+<headword>#<b>#[854] #893# Fop #</b>#</headword>
+</headGroup>
+
+<headGroup 894  >
+<headword>#<b>#[855] #894# Affectation #</b>#</headword>
+</headGroup>
+
+<headGroup 895  >
+<headword>#<b>#[856] #895# Ridicule #</b>#</headword>
+</headGroup>
+
+<headGroup 896 897  >
+<headword>#<b>#[857] #896# Laughingstock #</b>#</headword>
+</headGroup>
+
+<headGroup 897 898  >
+<headword>#<b>#[858] #897# Hope #</b>#</headword>
+<headword>#<b>#[859] #898# Hopelessness #</b>#</headword>
+</headGroup>
+
+<headGroup 899  >
+<headword>#<b>#[860] #899# Fear #</b>#</headword>
+</headGroup>
+
+<headGroup 900 901  >
+<headword>#<b>#[861] #900# Courage #</b>#</headword>
+<headword>#<b>#[862] #901# Cowardice #</b>#</headword>
+</headGroup>
+
+<headGroup 902 903  >
+<headword>#<b>#[863] #902# Rashness #</b>#</headword>
+<headword>#<b>#[864] #903# Caution #</b>#</headword>
+</headGroup>
+
+<headGroup 904 905  >
+<headword>#<b>#[865] #904# Desire #</b>#</headword>
+<headword>#<b>#[866] #905# Indifference #</b>#</headword>
+</headGroup>
+
+<headGroup 906  >
+<headword>#<b>#[867] #906# Dislike #</b>#</headword>
+</headGroup>
+
+<headGroup 907  >
+<headword>#<b>#[868] #907# Fastidiousness #</b>#</headword>
+</headGroup>
+
+<headGroup 908  >
+<headword>#<b>#[869] #908# Satiety #</b>#</headword>
+</headGroup>
+
+<headGroup 909  >
+<headword>#<b>#[870] #909# Wonder #</b>#</headword>
+</headGroup>
+
+<headGroup 910  >
+<headword>#<b>#[871] #910# Expectance #</b>#</headword>
+</headGroup>
+
+<headGroup 911  >
+<headword>#<b>#[872] #911# Prodigy #</b>#</headword>
+</headGroup>
+
+<headGroup 912 913  >
+<headword>#<b>#[873] #912# Repute #</b>#</headword>
+<headword>#<b>#[874] #913# Disrepute #</b>#</headword>
+</headGroup>
+
+<headGroup 914 915  >
+<headword>#<b>#[875] #914# Nobility #</b>#</headword>
+<headword>#<b>#[876] #915# Commonalty #</b>#</headword>
+</headGroup>
+
+<headGroup 916  >
+<headword>#<b>#[877] #916# Title #</b>#</headword>
+</headGroup>
+
+<headGroup 917 918  >
+<headword>#<b>#[878] #917# Pride #</b>#</headword>
+<headword>#<b>#[879] #918# Humility #</b>#</headword>
+</headGroup>
+
+<headGroup 919 920  >
+<headword>#<b>#[880] #919# Vanity #</b>#</headword>
+<headword>#<b>#[881] #920# Modesty #</b>#</headword>
+</headGroup>
+
+<headGroup 921  >
+<headword>#<b>#[882] #921# Ostentation #</b>#</headword>
+</headGroup>
+
+<headGroup 922  >
+<headword>#<b>#[883] #922# Celebration #</b>#</headword>
+</headGroup>
+
+<headGroup 923  >
+<headword>#<b>#[884] #923# Boasting #</b>#</headword>
+</headGroup>
+
+<headGroup 924 925  >
+<headword>#<b>#[885] #924# Insolence #</b>#</headword>
+<headword>#<b>#[886] #925# Servility #</b>#</headword>
+</headGroup>
+
+<headGroup 926  >
+<headword>#<b>#[887] #926# Blusterer #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 37 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#SYMPATHETIC AFFECTIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 927 928  >
+<headword>#<b>#[888] #927# Friendship #</b>#</headword>
+<headword>#<b>#[889] #928# Enmity #</b>#</headword>
+</headGroup>
+
+<headGroup 929 930  >
+<headword>#<b>#[890] #929# Friend #</b>#</headword>
+<headword>#<b>#[891] #930# Enemy #</b>#</headword>
+</headGroup>
+
+<headGroup 931 932  >
+<headword>#<b>#[892] #931# Sociality #</b>#</headword>
+<headword>#<b>#[893] #932# Exclusion #</b>#</headword>
+</headGroup>
+
+<headGroup 933 934  >
+<headword>#<b>#[894] #933# Courtesy #</b>#</headword>
+<headword>#<b>#[895] #934# Discourtesy #</b>#</headword>
+</headGroup>
+
+<headGroup 935  >
+<headword>#<b>#[896] #935# Congratulation #</b>#</headword>
+</headGroup>
+
+<headGroup 936 937  >
+<headword>#<b>#[897] #936# Love #</b>#</headword>
+<headword>#<b>#[898] #937# Hate #</b>#</headword>
+</headGroup>
+
+<headGroup 938 939  >
+<headword>#<b>#[899] #938# Favorite #</b>#</headword>
+<headword>#<b>#[900] #939# Resentment #</b>#</headword>
+</headGroup>
+
+<headGroup 940  >
+<headword>#<b>#[901] #940# Irascibility #</b>#</headword>
+</headGroup>
+
+<headGroup 941  >
+<headword>#<b>#[901a] #941# Sullenness #</b>#</headword>
+</headGroup>
+
+<headGroup 942  >
+<headword>#<b>#[902] #942# Endearment #</b>#</headword>
+</headGroup>
+
+<headGroup 943 944  >
+<headword>#<b>#[903] #943# Marriage #</b>#</headword>
+<headword>#<b>#[904] #944# Celibacy #</b>#</headword>
+</headGroup>
+
+<headGroup 945  >
+<headword>#<b>#[905] #945# Divorce #</b>#</headword>
+</headGroup>
+
+<headGroup 946 947  >
+<headword>#<b>#[906] #946# Benevolence #</b>#</headword>
+<headword>#<b>#[907] #947# Malevolence #</b>#</headword>
+</headGroup>
+
+<headGroup 948  >
+<headword>#<b>#[908] #948# Malediction #</b>#</headword>
+</headGroup>
+
+<headGroup 949  >
+<headword>#<b>#[909] #949# Threat #</b>#</headword>
+</headGroup>
+
+<headGroup 950 951  >
+<headword>#<b>#[910] #950# Philanthropy #</b>#</headword>
+<headword>#<b>#[911] #951# Misanthropy #</b>#</headword>
+</headGroup>
+
+<headGroup 952 953  >
+<headword>#<b>#[912] #952# Benefactor #</b>#</headword>
+<headword>#<b>#[913] #953# Evil doer #</b>#</headword>
+</headGroup>
+
+<headGroup 954 955  >
+<headword>#<b>#[914] #954# Pity #</b>#</headword>
+<headword>#<b>#[914a] #955# Pitilessness #</b>#</headword>
+</headGroup>
+
+<headGroup 956  >
+<headword>#<b>#[915] #956# Condolence #</b>#</headword>
+</headGroup>
+
+<headGroup 957 958  >
+<headword>#<b>#[916] #957# Gratitude #</b>#</headword>
+<headword>#<b>#[917] #958# Ingratitude #</b>#</headword>
+</headGroup>
+
+<headGroup 959 960  >
+<headword>#<b>#[918] #959# Forgiveness #</b>#</headword>
+<headword>#<b>#[919] #960# Revenge #</b>#</headword>
+</headGroup>
+
+<headGroup 961  >
+<headword>#<b>#[920] #961# Jealousy #</b>#</headword>
+</headGroup>
+
+<headGroup 962  >
+<headword>#<b>#[921] #962# Envy #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 38 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#MORAL AFFECTIONS #</b>#</size>#</sectionTitle>
+
+
+<headGroup 963 964  >
+<headword>#<b>#[922] #963# Right #</b>#</headword>
+<headword>#<b>#[923] #964# Wrong #</b>#</headword>
+</headGroup>
+
+<headGroup 965 966  >
+<headword>#<b>#[924] #965# Dueness #</b>#</headword>
+<headword>#<b>#[925] #966# Undueness #</b>#</headword>
+</headGroup>
+
+<headGroup 967 968 969  >
+<headword>#<b>#[926] #967# Duty #</b>#</headword>
+<headword>#<b>#[927] #968# Dereliction of Duty #</b>#</headword>
+<headword>#<b>#[927a] #969# Exemption #</b>#</headword>
+</headGroup>
+
+<headGroup 970 971  >
+<headword>#<b>#[928] #970# Respect #</b>#</headword>
+<headword>#<b>#[929] #971# Disrespect #</b>#</headword>
+</headGroup>
+
+<headGroup 972  >
+<headword>#<b>#[930] #972# Contempt #</b>#</headword>
+</headGroup>
+
+<headGroup 973 974  >
+<headword>#<b>#[931] #973# Approbation #</b>#</headword>
+<headword>#<b>#[932] #974# Disapprobation #</b>#</headword>
+</headGroup>
+
+<headGroup 975 976  >
+<headword>#<b>#[933] #975# Flattery #</b>#</headword>
+<headword>#<b>#[934] #976# Detraction #</b>#</headword>
+</headGroup>
+
+<headGroup 977 978  >
+<headword>#<b>#[935] #977# Flatterer #</b>#</headword>
+<headword>#<b>#[936] #978# Detractor #</b>#</headword>
+</headGroup>
+
+<headGroup 979 980  >
+<headword>#<b>#[937] #979# Vindication #</b>#</headword>
+<headword>#<b>#[938] #980# Accusation #</b>#</headword>
+</headGroup>
+
+<headGroup 981 982 >
+<headword>#<b>#[939] #981# Probity #</b>#</headword>
+<headword>#<b>#[940] #982# Improbity #</b>#</headword>
+</headGroup>
+
+<headGroup 983  >
+<headword>#<b>#[941] #983# Knave #</b>#</headword>
+</headGroup>
+
+<headGroup 984 985  >
+<headword>#<b>#[942] #984# Disinterestedness #</b>#</headword>
+<headword>#<b>#[943] #985# Selfishness #</b>#</headword>
+</headGroup>
+
+<headGroup 986 987  >
+<headword>#<b>#[944] #986# Virtue #</b>#</headword>
+<headword>#<b>#[945] #987# Vice #</b>#</headword>
+</headGroup>
+
+<headGroup 988 989  >
+<headword>#<b>#[946] #988# Innocence #</b>#</headword>
+<headword>#<b>#[947] #989# Guilt #</b>#</headword>
+</headGroup>
+
+<headGroup 990 991  >
+<headword>#<b>#[948] #990# Good Man #</b>#</headword>
+<headword>#<b>#[949] #991# Bad Man #</b>#</headword>
+</headGroup>
+
+<headGroup 992 993  >
+<headword>#<b>#[950] #992# Penitence #</b>#</headword>
+<headword>#<b>#[951] #993# Impenitence #</b>#</headword>
+</headGroup>
+
+<headGroup 994  >
+<headword>#<b>#[952] #994# Atonement #</b>#</headword>
+</headGroup>
+
+<headGroup 995 996  >
+<headword>#<b>#[953] #995# Temperance #</b>#</headword>
+<headword>#<b>#[954] #996# Intemperance #</b>#</headword>
+</headGroup>
+
+<headGroup 997  >
+<headword>#<b>#[954a] #997# Sensualist #</b>#</headword>
+</headGroup>
+
+<headGroup 998  >
+<headword>#<b>#[955] #998# Asceticism #</b>#</headword>
+</headGroup>
+
+<headGroup 999 1000  >
+<headword>#<b>#[956] #999# Fasting #</b>#</headword>
+<headword>#<b>#[957] #1000# Gluttony #</b>#</headword>
+</headGroup>
+
+<headGroup 1001 1002 >
+<headword>#<b>#[958] #1001# Sobriety #</b>#</headword>
+<headword>#<b>#[959] #1002# Drunkenness #</b>#</headword>
+</headGroup>
+
+<headGroup 1003 1004  >
+<headword>#<b>#[960] #1003# Purity #</b>#</headword>
+<headword>#<b>#[961] #1004# Impurity #</b>#</headword>
+</headGroup>
+
+<headGroup 1005  >
+<headword>#<b>#[962] #1005# Libertine #</b>#</headword>
+</headGroup>
+
+<headGroup 1006 1007  >
+<headword>#<b>#[963] #1006# Legality #</b>#</headword>
+<headword>#<b>#[964] #1007# Illegality #</b>#</headword>
+</headGroup>
+
+<headGroup 1008  >
+<headword>#<b>#[965] #1008# Jurisdiction #</b>#</headword>
+</headGroup>
+
+<headGroup 1009  >
+<headword>#<b>#[966] #1009# Tribunal #</b>#</headword>
+</headGroup>
+
+<headGroup 1010  >
+<headword>#<b>#[967] #1010# Judge #</b>#</headword>
+</headGroup>
+
+<headGroup 1011  >
+<headword>#<b>#[968] #1011# Lawyer #</b>#</headword>
+</headGroup>
+
+<headGroup 1012  >
+<headword>#<b>#[969] #1012# Lawsuit #</b>#</headword>
+</headGroup>
+
+<headGroup 1013 1014  >
+<headword>#<b>#[970] #1013# Acquittal #</b>#</headword>
+<headword>#<b>#[971] #1014# Condemnation #</b>#</headword>
+</headGroup>
+
+<headGroup 1015 1016  >
+<headword>#<b>#[972] #1015# Punishment #</b>#</headword>
+<headword>#<b>#[973] #1016# Reward #</b>#</headword>
+</headGroup>
+
+<headGroup 1017  >
+<headword>#<b>#[974] #1017# Penalty #</b>#</headword>
+</headGroup>
+
+<headGroup 1018  >
+<headword>#<b>#[975] #1018# Scourge #</b>#</headword>
+</headGroup>
+
+</section>
+
+<sectionNumber>#Section 39 #</sectionNumber>
+<sectionTitle>#<size=-1>#<b>#RELIGIOUS AFFECTIONS #</b>#</size>#</sectionTitle>
+
+<headGroup 1019  >
+<headword>#<b>#[976] #1019# Deity #</b>#</headword>
+</headGroup>
+
+<headGroup 1020  >
+<headword>#<b>#[977] #1020# Angel #</b>#</headword>
+</headGroup>
+
+<headGroup 1021  >
+<headword>#<b>#[978] #1021# Satan #</b>#</headword>
+</headGroup>
+
+<headGroup 1022  >
+<headword>#<b>#[979] #1022# Jupiter #</b>#</headword>
+</headGroup>
+
+<headGroup 1023  >
+<headword>#<b>#[980] #1023# Demon #</b>#</headword>
+</headGroup>
+
+<headGroup 1024 1025  >
+<headword>#<b>#[981] #1024# Heaven #</b>#</headword>
+<headword>#<b>#[982] #1025# Hell #</b>#</headword>
+</headGroup>
+
+<headGroup 1026  >
+<headword>#<b>#[983] #1026# Theology #</b>#</headword>
+
+</headGroup>
+
+<headGroup 1027 1028  >
+<headword>#<b>#[983a] #1027# Orthodoxy #</b>#</headword>
+<headword>#<b>#[984] #1028# Heterodoxy #</b>#</headword>
+</headGroup>
+
+<headGroup 1029 1030  >
+<headword>#<b>#[985] #1029# Judeo-Christian Revelation #</b>#</headword>
+<headword>#<b>#[986] #1030# Pseudo-Revelation #</b>#</headword>
+</headGroup>
+
+<headGroup 1031 1032  >
+<headword>#<b>#[987] #1031# Piety #</b>#</headword>
+<headword>#<b>#[988] #1032# Impiety #</b>#</headword>
+</headGroup>
+
+<headGroup 1033  >
+<headword>#<b>#[989] #1033# Irreligion #</b>#</headword>
+</headGroup>
+
+<headGroup 1034 1035  >
+<headword>#<b>#[990] #1034# Worship #</b>#</headword>
+<headword>#<b>#[991] #1035# Idolatry #</b>#</headword>
+</headGroup>
+
+<headGroup 1036 1037  >
+<headword>#<b>#[992] #1036# Sorcery #</b>#</headword>
+<headword>#<b>#[993] #1037# Spell #</b>#</headword>
+</headGroup>
+
+<headGroup 1038  >
+<headword>#<b>#[994] #1038# Sorcerer #</b>#</headword>
+</headGroup>
+
+<headGroup 1039  >
+<headword>#<b>#[995] #1039# Churchdom #</b>#</headword>
+</headGroup>
+
+<headGroup 1040 1041  >
+<headword>#<b>#[996] #1040# Clergy #</b>#</headword>
+<headword>#<b>#[997] #1041# Laity #</b>#</headword>
+</headGroup>
+
+<headGroup 1042  >
+<headword>#<b>#[998] #1042# Rite #</b>#</headword>
+</headGroup>
+
+<headGroup 1043  >
+<headword>#<b>#[999] #1043# Canonicals #</b>#</headword>
+</headGroup>
+
+<headGroup 1044  >
+<headword>#<b>#[1000] #1044# Temple #</b>#</headword>
+</headGroup>
+
+</section>
+</class>

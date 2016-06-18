@@ -1,0 +1,147 @@
+*** plutonium ***
+plutonium - nuclear, 14, intermediate similarity
+plutonium - radioactive, 6, low similarity
+plutonium - uranium, 16, high similarity
+plutonium - smuggle, 0, low similarity
+plutonium - shipment, 0, low similarity
+plutonium - reprocess, 0, low similarity
+plutonium - fissile, 2, low similarity
+plutonium - sure, 0, low similarity
+plutonium - nuclear weapon, 0, low similarity
+
+*** nuclear ***
+nuclear - plutonium, 14, intermediate similarity
+nuclear - radioactive, 16, high similarity
+nuclear - uranium, 14, intermediate similarity
+nuclear - smuggle, 6, low similarity
+nuclear - shipment, 6, low similarity
+nuclear - reprocess, 6, low similarity
+nuclear - fissile, 10, intermediate similarity
+nuclear - sure, 6, low similarity
+nuclear - nuclear weapon, 14, intermediate similarity
+
+*** radioactive ***
+radioactive - plutonium, 6, low similarity
+radioactive - nuclear, 16, high similarity
+radioactive - uranium, 6, low similarity
+radioactive - smuggle, 0, low similarity
+radioactive - shipment, 0, low similarity
+radioactive - reprocess, 6, low similarity
+radioactive - fissile, 2, low similarity
+radioactive - sure, 8, low similarity
+radioactive - nuclear weapon, 2, low similarity
+
+*** uranium ***
+uranium - plutonium, 16, high similarity
+uranium - nuclear, 14, intermediate similarity
+uranium - radioactive, 6, low similarity
+uranium - smuggle, 0, low similarity
+uranium - shipment, 0, low similarity
+uranium - reprocess, 0, low similarity
+uranium - fissile, 2, low similarity
+uranium - sure, 0, low similarity
+uranium - nuclear weapon, 0, low similarity
+
+*** smuggle ***
+smuggle - plutonium, 0, low similarity
+smuggle - nuclear, 6, low similarity
+smuggle - radioactive, 0, low similarity
+smuggle - uranium, 0, low similarity
+smuggle - shipment, 2, low similarity
+smuggle - reprocess, 0, low similarity
+smuggle - fissile, 0, low similarity
+smuggle - sure, 0, low similarity
+smuggle - nuclear weapon, 0, low similarity
+
+*** shipment ***
+shipment - plutonium, 0, low similarity
+shipment - nuclear, 6, low similarity
+shipment - radioactive, 0, low similarity
+shipment - uranium, 0, low similarity
+shipment - smuggle, 2, low similarity
+shipment - reprocess, 0, low similarity
+shipment - fissile, 0, low similarity
+shipment - sure, 0, low similarity
+shipment - nuclear weapon, 0, low similarity
+
+*** reprocess ***
+reprocess - plutonium, 0, low similarity
+reprocess - nuclear, 6, low similarity
+reprocess - radioactive, 6, low similarity
+reprocess - uranium, 0, low similarity
+reprocess - smuggle, 0, low similarity
+reprocess - shipment, 0, low similarity
+reprocess - fissile, 2, low similarity
+reprocess - sure, 6, low similarity
+reprocess - nuclear weapon, 2, low similarity
+
+*** fissile ***
+fissile - plutonium, 2, low similarity
+fissile - nuclear, 10, intermediate similarity
+fissile - radioactive, 2, low similarity
+fissile - uranium, 2, low similarity
+fissile - smuggle, 0, low similarity
+fissile - shipment, 0, low similarity
+fissile - reprocess, 2, low similarity
+fissile - sure, 2, low similarity
+fissile - nuclear weapon, 0, low similarity
+
+*** sure ***
+sure - plutonium, 0, low similarity
+sure - nuclear, 6, low similarity
+sure - radioactive, 8, low similarity
+sure - uranium, 0, low similarity
+sure - smuggle, 0, low similarity
+sure - shipment, 0, low similarity
+sure - reprocess, 6, low similarity
+sure - fissile, 2, low similarity
+sure - nuclear weapon, 4, low similarity
+
+*** nuclear weapon ***
+nuclear weapon - plutonium, 0, low similarity
+nuclear weapon - nuclear, 14, intermediate similarity
+nuclear weapon - radioactive, 2, low similarity
+nuclear weapon - uranium, 0, low similarity
+nuclear weapon - smuggle, 0, low similarity
+nuclear weapon - shipment, 0, low similarity
+nuclear weapon - reprocess, 2, low similarity
+nuclear weapon - fissile, 0, low similarity
+nuclear weapon - sure, 4, low similarity
+
+Possible Roget's Thesaurus clusters:
+------------------------------------
+Head: 46 Disunion
+[nuclear, fissile]
+
+Head: 160 Power
+[nuclear, radioactive]
+
+Head: 385 Fuel
+[plutonium, nuclear, uranium]
+
+Head: 417 Light
+[nuclear, radioactive]
+
+Head: 723 Arms
+[nuclear, nuclear weapon]
+
+The 10 largest clusters:
+------------------------
+Head: 385 Fuel
+[plutonium, nuclear, uranium]
+
+Head: 723 Arms
+[nuclear, nuclear weapon]
+
+Head: 417 Light
+[nuclear, radioactive]
+
+Head: 160 Power
+[nuclear, radioactive]
+
+Head: 46 Disunion
+[nuclear, fissile]
+
+Words and phrases not in Roget's Thesaurus (20/30): 
+--------------------------------------------------
+[deuterium, lithium, thorium, tritium, nuclear material, radioactive material, radioactive substance, undine uta bloch von blottnitz, nuala ahern, radon, mox, illegal traffic, iaea, trisaia, mamère, dessel, alex smith, sellafield, illicit traffic, familiarisation]

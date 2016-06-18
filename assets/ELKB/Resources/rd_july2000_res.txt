@@ -1,0 +1,177 @@
+Loading the Index...
+Loading the Text...
+Loading the Categories...
+Question 1: methodical | orderly | ordinary | dull | deep 
+methodical ADJ. [methodical] to orderly ADJ. [orderly], length = 0, 3 path(s) of this length
+methodical ADJ. [methodical] to ordinary ADJ. [ordinary], length = 10, 6 path(s) of this length
+methodical ADJ. [methodical] to dull VB. [dull], length = 14, 3 path(s) of this length
+methodical ADJ. to deep VB., length = 14, 12 path(s) of this length
+Roget thinks that methodical means orderly
+CORRECT
+
+Question 2: fantasize | to imagine | endear | enlarge | lie 
+fantasize VB. [fantasize] to imagine VB. [to imagine], length = 2, 1 path(s) of this length
+fantasize VB. [fantasize] to endear VB. [endear], length = 16, 1 path(s) of this length
+fantasize VB. [fantasize] to enlarge VB. [enlarge], length = 12, 4 path(s) of this length
+fantasize VB. to lie VB., length = 12, 15 path(s) of this length
+Roget thinks that fantasize means to imagine
+CORRECT
+
+Question 3: therapy | healing | heat | side dish | repeating melody 
+therapy N. [therapy] to healing N. [healing], length = 4, 2 path(s) of this length
+therapy N. [therapy] to heat N. [heat], length = 2, 2 path(s) of this length
+therapy N. [therapy] to side dish N. [side dish], length = 4, 1 path(s) of this length
+therapy N. [therapy] to repeating VB. [repeating melody], length = 12, 45 path(s) of this length
+Roget thinks that therapy means heat
+INCORRECT
+
+Question 4: chronic | constant | severe | cranky | officially 
+chronic ADJ. [chronic] to constant ADJ. [constant], length = 2, 1 path(s) of this length
+chronic ADJ. [chronic] to severe ADJ. [severe], length = 10, 3 path(s) of this length
+chronic ADJ. [chronic] to cranky ADJ. [cranky], length = 14, 1 path(s) of this length
+officially is NOT IN THE INDEX
+Roget thinks that chronic means constant
+CORRECT
+
+Question 5: pragmatic | practical | productive | overly fussy | wasteful 
+pragmatic ADJ. [pragmatic] to practical ADJ. [practical], length = 0, 2 path(s) of this length
+pragmatic ADJ. [pragmatic] to productive ADJ. [productive], length = 4, 1 path(s) of this length
+pragmatic ADJ. [pragmatic] to overly ADV. [overly fussy], length = 10, 2 path(s) of this length
+pragmatic ADJ. to wasteful ADJ., length = 8, 1 path(s) of this length
+Roget thinks that pragmatic means practical
+CORRECT
+
+Question 6: orate | speak | to express anger | insult | sing 
+orate VB. [orate] to speak VB. [speak], length = 2, 2 path(s) of this length
+orate VB. [orate] to express VB. [to express anger], length = 8, 1 path(s) of this length
+orate VB. [orate] to insult N. [insult], length = 16, 30 path(s) of this length
+orate VB. to sing VB., length = 12, 10 path(s) of this length
+Roget thinks that orate means speak
+CORRECT
+
+Question 7: hoi polloi | common people | Hawaiian food | mass confusion | royalty 
+hoi polloi N. [hoi polloi] to common N. [common people], length = 0, 3 path(s) of this length
+hoi polloi N. [hoi polloi] to food VB. [Hawaiian food], length = 10, 3 path(s) of this length
+hoi polloi N. [hoi polloi] to mass N. [mass confusion], length = 2, 1 path(s) of this length
+hoi polloi N. to royalty N., length = 8, 1 path(s) of this length
+Roget thinks that hoi polloi means common people
+CORRECT
+
+Question 8: synthesize | combine | to make out of plastic | create music | control 
+synthesize VB. [synthesize] to combine VB. [combine], length = 0, 1 path(s) of this length
+synthesize VB. [synthesize] to make VB. [to make out of plastic], length = 2, 3 path(s) of this length
+synthesize VB. [synthesize] to create VB. [create music], length = 2, 1 path(s) of this length
+synthesize VB. to control N., length = 10, 7 path(s) of this length
+Roget thinks that synthesize means combine
+CORRECT
+
+Question 9: phobia | fear | virus | backache | lip 
+phobia N. [phobia] to fear N. [fear], length = 2, 3 path(s) of this length
+phobia N. [phobia] to virus N. [virus], length = 16, 25 path(s) of this length
+phobia N. [phobia] to backache N. [backache], length = 16, 5 path(s) of this length
+phobia N. to lip N., length = 10, 16 path(s) of this length
+Roget thinks that phobia means fear
+CORRECT
+
+Question 10: cataclysm | disaster | mixing machine | excitement | weakness 
+cataclysm N. [cataclysm] to disaster N. [disaster], length = 2, 2 path(s) of this length
+cataclysm N. [cataclysm] to machine VB. [mixing machine], length = 8, 1 path(s) of this length
+cataclysm N. [cataclysm] to excitement N. [excitement], length = 10, 2 path(s) of this length
+cataclysm N. to weakness N., length = 12, 9 path(s) of this length
+Roget thinks that cataclysm means disaster
+CORRECT
+
+Question 11: gastric | stomach | fuel | magic | nervous system 
+gastric N. [gastric] to stomach N. [stomach], length = 0, 2 path(s) of this length
+gastric N. [gastric] to fuel N. [fuel], length = 10, 3 path(s) of this length
+gastric N. [gastric] to magic N. [magic], length = 10, 5 path(s) of this length
+gastric N. to nervous system N., length = 16, 1 path(s) of this length
+Roget thinks that gastric means stomach
+CORRECT
+
+Question 12: thesaurus | book of synonyms | flesh-eating dinosaur | argument | road map 
+thesaurus N. [thesaurus] to book N. [book of synonyms], length = 2, 9 path(s) of this length
+thesaurus N. [thesaurus] to dinosaur N. [flesh-eating dinosaur], length = 14, 2 path(s) of this length
+thesaurus N. [thesaurus] to argument N. [argument], length = 10, 23 path(s) of this length
+thesaurus N. to road map N., length = 12, 2 path(s) of this length
+Roget thinks that thesaurus means book of synonyms
+CORRECT
+
+Question 13: ode | poem | heavy debt | sweet smell | surprise 
+ode N. [ode] to poem N. [poem], length = 2, 2 path(s) of this length
+ode N. [ode] to heavy N. [heavy debt], length = 12, 42 path(s) of this length
+ode N. [ode] to sweet smell N. [sweet smell], length = 16, 6 path(s) of this length
+ode N. to surprise VB., length = 12, 18 path(s) of this length
+Roget thinks that ode means poem
+CORRECT
+
+Question 14: eulogize | to praise | shout | gush | gloss over 
+eulogize VB. [eulogize] to praise VB. [to praise], length = 2, 4 path(s) of this length
+eulogize VB. [eulogize] to shout VB. [shout], length = 4, 1 path(s) of this length
+eulogize VB. [eulogize] to gush VB. [gush], length = 16, 39 path(s) of this length
+eulogize VB. to gloss over VB., length = 10, 1 path(s) of this length
+Roget thinks that eulogize means to praise
+CORRECT
+
+Question 15: mania | craze | entertainment | cheerfulness | cleverness 
+mania N. [mania] to craze N. [craze], length = 0, 4 path(s) of this length
+mania N. [mania] to entertainment N. [entertainment], length = 12, 13 path(s) of this length
+mania N. [mania] to cheerfulness N. [cheerfulness], length = 10, 11 path(s) of this length
+mania N. to cleverness N., length = 12, 5 path(s) of this length
+Roget thinks that mania means craze
+CORRECT
+
+Question 16: anarchic | lawless | frozen | amazing | stingy 
+anarchic ADJ. [anarchic] to lawless ADJ. [lawless], length = 0, 4 path(s) of this length
+anarchic ADJ. [anarchic] to frozen ADJ. [frozen], length = 12, 15 path(s) of this length
+anarchic ADJ. [anarchic] to amazing VB. [amazing], length = 12, 20 path(s) of this length
+anarchic ADJ. to stingy ADJ., length = 14, 5 path(s) of this length
+Roget thinks that anarchic means lawless
+CORRECT
+
+Question 17: panacea | cure-all | widespread disease | gland | flashiness 
+panacea N. [panacea] to cure-all N. [cure-all], length = 0, 1 path(s) of this length
+panacea N. [panacea] to disease N. [widespread disease], length = 8, 1 path(s) of this length
+panacea N. [panacea] to gland N. [gland], length = 16, 2 path(s) of this length
+flashiness is NOT IN THE INDEX
+Roget thinks that panacea means cure-all
+CORRECT
+
+Question 18: ostracize | exclude | to stretch out | tickle | reveal 
+ostracize VB. [ostracize] to exclude VB. [exclude], length = 0, 6 path(s) of this length
+ostracize VB. [ostracize] to out VB. [to stretch out], length = 2, 9 path(s) of this length
+ostracize VB. [ostracize] to tickle N. [tickle], length = 10, 5 path(s) of this length
+ostracize VB. to reveal VB., length = 12, 5 path(s) of this length
+Roget thinks that ostracize means exclude
+CORRECT
+
+Question 19: theology | religion | idea | rules | Greek history 
+theology N. [theology] to religion N. [religion], length = 2, 3 path(s) of this length
+theology N. [theology] to idea N. [idea], length = 4, 1 path(s) of this length
+theology N. [theology] to rules N. [rules], length = 0, 1 path(s) of this length
+theology N. [theology] to Greek N. [Greek history], length = 4, 1 path(s) of this length
+Roget thinks that theology means rules
+INCORRECT
+
+Question 20: cathartic | cleansing | burning | demanding | rotting
+cathartic ADJ. [cathartic] to cleansing ADJ. [cleansing], length = 2, 1 path(s) of this length
+cathartic N. [cathartic] to burning N. [burning], length = 10, 13 path(s) of this length
+cathartic N. [cathartic] to demanding ADV. [demanding], length = 10, 25 path(s) of this length
+cathartic N. to rotting N., length = 8, 2 path(s) of this length
+Roget thinks that cathartic means cleansing
+CORRECT
+
+Final score: 18/20. 0 ties broken, 0 ties lost.
+
+The answer was not in the index 2 times. 
+
+The question was not in the index 0 times.
+
+-- NEW STATS --
+Question word not in index: 0 times.
+Answer word not in index: 0 times.
+Other word not in index: 2 times.
+
+The following question words were not found in Roget: []
+The following answer words were not found in Roget: []
+Other words that were not found in Roget: [officially, flashiness]

@@ -1,0 +1,31 @@
+LexicalChain
+- version 2.0 -
+
+
+CHANGES TO VERSION 1.0
+
+1.0 is the version written by Mario Jarmasz. 2.0 contains changes implemented by Olena Medelyan:
+
+1. Verbose output: The user has the option of seeing all the information 
+about generating the lexical chains or only the final output.
+
+2. Utility scripts from WEKA (Option.java, OptionHandler.java and Utils.java) 
+are included into the package.
+
+3. Included the scoring function HIndex proposed by Barzilay & Elhadad (1997):
+   score(chain) = length*homogeneity
+   length - number of all members in the chain
+   homogeneity = 1 - distinct members/length
+
+4. Included detection of top scored chains as proposed by Barzilay & Elhadad (1997):
+   score(chain) > average(scores) + 2*StandardDeviation(scores).
+
+
+5. Final output is converted into a more convenient form. When HIndex is used, only top scored chains are presented, leading by their most representative member, the ones with the highest frequency, which can be seen as a keyword.
+
+
+TODO
+
+- Check the morphological processing
+- Check if not only words, but also phrases can be detected in the document
+

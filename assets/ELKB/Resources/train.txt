@@ -1,0 +1,7 @@
+We suppose a very long train traveling along the rails with a constant velocity v and in the direction indicated in Figure 1. 
+
+People traveling in this train will with advantage use the train as a rigid reference-body; they regard all events in reference to the train.
+
+Then every event which takes place along the line also takes place at a particular point of the train. 
+
+Also, the definition of simultaneity can be given relative to the train in exactly the same way as with respect to the embankment.

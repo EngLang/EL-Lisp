@@ -1,0 +1,33 @@
+Loading the Index...
+Loading the Text...
+Loading the Categories...
+car,automobile,16, car N. to automobile N.
+gem,jewel,16, gem N. to jewel N.
+journey,voyage,16, journey N. to voyage N.
+boy,lad,16, boy N. to lad N.
+coast,shore,16, coast N. to shore N.
+asylum,madhouse,14, asylum N. to madhouse N.
+magician,wizard,14, magician N. to wizard N.
+midday,noon,16, midday N. to noon N.
+furnace,stove,14, furnace N. to stove N.
+food,fruit,12, food N. to fruit N.
+bird,cock,12, bird N. to cock N.
+bird,crane,14, bird N. to crane N.
+tool,implement,16, tool N. to implement N.
+brother,monk,14, brother N. to monk N.
+lad,brother,14, lad N. to brother N.
+crane,implement,0, crane N. to implement N.
+journey,car,12, journey N. to car N.
+monk,oracle,12, monk N. to oracle N.
+cemetery,woodland,6, cemetery N. to woodland N.
+food,rooster,12, food N. to rooster N.
+coast,hill,4, coast N. to hill N.
+forest,graveyard,6, forest N. to graveyard N.
+shore,woodland,6, shore N. to woodland N.
+monk,slave,6, monk N. to slave N.
+coast,forest,16, coast N. to forest N.
+lad,wizard,4, lad N. to wizard N.
+chord,smile,0, chord N. to smile N.
+glass,magician,4, glass N. to magician N.
+rooster,voyage,2, rooster N. to voyage N.
+noon,string,6, noon N. to string N.

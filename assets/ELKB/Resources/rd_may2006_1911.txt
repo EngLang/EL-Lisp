@@ -1,0 +1,139 @@
+Loading the Index...
+Loading the Text...
+Loading the Categories...
+Question 1: methodical | orderly | ordinary | dull | deep 
+methodical N. [methodical] to orderly N. [orderly], length = 0, 2 path(s) of this length
+methodical N. [methodical] to ordinary N. [ordinary], length = 12, 20 path(s) of this length
+methodical N. [methodical] to dull N. [dull], length = 12, 34 path(s) of this length
+methodical N. to deep N., length = 12, 40 path(s) of this length
+Roget thinks that methodical means orderly
+CORRECT
+
+Question 2: fantasize | to imagine | endear | enlarge | lie 
+fantasize (PROBLEM) not found in the index!!
+
+Question 3: therapy | healing | heat | side dish | repeating melody 
+therapy (PROBLEM) not found in the index!!
+
+Question 4: chronic | constant | severe | cranky | officially 
+chronic N. [chronic] to constant N. [constant], length = 12, 7 path(s) of this length
+chronic N. [chronic] to severe N. [severe], length = 12, 9 path(s) of this length
+chronic N. [chronic] to cranky N. [cranky], length = 12, 2 path(s) of this length
+officially is NOT IN THE INDEX
+Roget thinks that chronic means severe
+TIE LOST
+INCORRECT
+
+Question 5: pragmatic | practical | productive | overly fussy | wasteful 
+pragmatic (PROBLEM) not found in the index!!
+
+Question 6: orate | speak | to express anger | insult | sing 
+orate (PROBLEM) not found in the index!!
+
+Question 7: hoi polloi | common people | Hawaiian food | mass confusion | royalty 
+hoi polloi (PROBLEM) not found in the index!!
+
+Question 8: synthesize | combine | to make out of plastic | create music | control 
+synthesize (PROBLEM) not found in the index!!
+
+Question 9: phobia | fear | virus | backache | lip 
+phobia (PROBLEM) not found in the index!!
+
+Question 10: cataclysm | disaster | mixing machine | excitement | weakness 
+cataclysm N. [cataclysm] to disaster N. [disaster], length = 12, 6 path(s) of this length
+cataclysm N. [cataclysm] to machine N. [mixing machine], length = 12, 27 path(s) of this length
+cataclysm N. [cataclysm] to excitement N. [excitement], length = 12, 9 path(s) of this length
+cataclysm N. to weakness N., length = 12, 12 path(s) of this length
+Roget thinks that cataclysm means mixing machine
+INCORRECT
+
+Question 11: gastric | stomach | fuel | magic | nervous system 
+gastric N. [gastric] to stomach N. [stomach], length = 12, 5 path(s) of this length
+gastric N. [gastric] to fuel N. [fuel], length = 12, 5 path(s) of this length
+gastric N. [gastric] to magic N. [magic], length = 12, 6 path(s) of this length
+gastric N. [gastric] to system N. [nervous system], length = 12, 8 path(s) of this length
+Roget thinks that gastric means nervous system
+INCORRECT
+
+Question 12: thesaurus | book of synonyms | flesh-eating dinosaur | argument | road map 
+thesaurus N. [thesaurus] to book N. [book of synonyms], length = 2, 1 path(s) of this length
+thesaurus N. [thesaurus] to dinosaur N. [flesh-eating dinosaur], length = 12, 3 path(s) of this length
+thesaurus N. [thesaurus] to argument N. [argument], length = 12, 12 path(s) of this length
+thesaurus N. to road map N., length = 12, 3 path(s) of this length
+Roget thinks that thesaurus means book of synonyms
+CORRECT
+
+Question 13: ode | poem | heavy debt | sweet smell | surprise 
+ode N. [ode] to poem N. [poem], length = 2, 1 path(s) of this length
+ode N. [ode] to heavy N. [heavy debt], length = 12, 23 path(s) of this length
+ode N. [ode] to sweet smell N. [sweet smell], length = 12, 1 path(s) of this length
+ode N. to surprise N., length = 12, 4 path(s) of this length
+Roget thinks that ode means poem
+CORRECT
+
+Question 14: eulogize | to praise | shout | gush | gloss over 
+eulogize N. [eulogize] to praise N. [to praise], length = 0, 1 path(s) of this length
+eulogize N. [eulogize] to shout N. [shout], length = 12, 6 path(s) of this length
+eulogize N. [eulogize] to gush N. [gush], length = 12, 6 path(s) of this length
+eulogize N. to gloss over N., length = 12, 8 path(s) of this length
+Roget thinks that eulogize means to praise
+CORRECT
+
+Question 15: mania | craze | entertainment | cheerfulness | cleverness 
+mania N. [mania] to craze N. [craze], length = 0, 1 path(s) of this length
+mania N. [mania] to entertainment N. [entertainment], length = 12, 8 path(s) of this length
+mania N. [mania] to cheerfulness N. [cheerfulness], length = 12, 6 path(s) of this length
+mania N. to cleverness N., length = 12, 2 path(s) of this length
+Roget thinks that mania means craze
+CORRECT
+
+Question 16: anarchic | lawless | frozen | amazing | stingy 
+anarchic (PROBLEM) not found in the index!!
+
+Question 17: panacea | cure-all | widespread disease | gland | flashiness 
+panacea N. [panacea] to cure-all N. [cure-all], length = 12, 1 path(s) of this length
+panacea N. [panacea] to widespread N. [widespread disease], length = 12, 4 path(s) of this length
+gland is NOT IN THE INDEX
+flashiness is NOT IN THE INDEX
+Roget thinks that panacea means widespread disease
+INCORRECT
+
+Question 18: ostracize | exclude | to stretch out | tickle | reveal 
+ostracize N. [ostracize] to exclude N. [exclude], length = 0, 1 path(s) of this length
+ostracize N. [ostracize] to out N. [to stretch out], length = 0, 2 path(s) of this length
+ostracize N. [ostracize] to tickle N. [tickle], length = 12, 6 path(s) of this length
+ostracize N. to reveal N., length = 12, 6 path(s) of this length
+Roget thinks that ostracize means to stretch out
+TIE LOST
+INCORRECT
+
+Question 19: theology | religion | idea | rules | Greek history 
+theology N. [theology] to religion N. [religion], length = 0, 1 path(s) of this length
+theology N. [theology] to idea N. [idea], length = 12, 9 path(s) of this length
+theology N. [theology] to rules N. [rules], length = 12, 16 path(s) of this length
+theology N. [theology] to Greek N. [Greek history], length = 12, 4 path(s) of this length
+Roget thinks that theology means religion
+CORRECT
+
+Question 20: cathartic | cleansing | burning | demanding | rotting
+cathartic N. [cathartic] to cleansing N. [cleansing], length = 2, 1 path(s) of this length
+cathartic N. [cathartic] to burning N. [burning], length = 12, 19 path(s) of this length
+cathartic N. [cathartic] to demanding N. [demanding], length = 12, 9 path(s) of this length
+cathartic N. to rotting N., length = 8, 1 path(s) of this length
+Roget thinks that cathartic means cleansing
+CORRECT
+
+Final score: 7/20. 0 ties broken, 2 ties lost.
+
+The answer was not in the index 3 times. 
+
+The question was not in the index 8 times.
+
+-- NEW STATS --
+Question word not in index: 8 times.
+Answer word not in index: 0 times.
+Other word not in index: 3 times.
+
+The following question words were not found in Roget: [fantasize, therapy, pragmatic, orate, hoi polloi, synthesize, phobia, anarchic]
+The following answer words were not found in Roget: []
+Other words that were not found in Roget: [officially, gland, flashiness]
